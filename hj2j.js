@@ -1,0 +1,16 @@
+const hj = require("hjson")
+
+process.stdin.resume()
+process.stdin.setEncoding("utf8")
+let input = ""
+
+process.stdin.on("data", chunk => {
+  input += chunk
+})
+
+process.stdin.on('end', () => {
+  console.log(
+    JSON.stringify(hj.parse(input), null, 2)
+  )
+})
+

@@ -1,0 +1,9196 @@
+{
+  "@num": [
+    [
+      [
+        "a set of @",
+        "@-faceted",
+        "@th in sequence"
+      ],
+      [
+        "times @",
+        "@ times",
+        "to the @th power"
+      ],
+      [
+        "divide in @",
+        "be of @ parts",
+        "to the -@th power"
+      ]
+    ],
+    "official"
+  ],
+  "@gv": [
+    [
+      [
+        "@",
+        "@ (marker)",
+        "@ (ornament)"
+      ],
+      "covering",
+      "fashion"
+    ],
+    [
+      [
+        "@ (formal)",
+        "@ (marker, formal)",
+        "@ (ornament, formal)"
+      ],
+      [
+        "@ (uniform)",
+        "@ (marker, uniform)",
+        "@ (ornament, uniform)"
+      ],
+      [
+        "@ (costume)",
+        "@ (marker, costume)",
+        "@ (ornament, costume)"
+      ]
+    ]
+  ],
+  "@vr": [
+    [
+      [
+        "@",
+        "@ (male)",
+        "@ (female)"
+      ],
+      [
+        "@ (wild)",
+        "@ (wild male)",
+        "@ (wild female)"
+      ],
+      [
+        "@ (domesticated)",
+        "@ (domesticated male)",
+        "@ (domesticated female)"
+      ]
+    ],
+    [
+      [
+        "@ (resource)",
+        "@ (resource male)",
+        "@ (resource female)"
+      ],
+      [
+        "@ (prey)",
+        "@ (prey male)",
+        "@ (prey female)"
+      ],
+      [
+        "@ (processed)",
+        "@ (processed male)",
+        "@ (processed female)"
+      ]
+    ],
+    [
+      "egg",
+      "meat",
+      "skin/shell",
+      "fluid/ink",
+      "smoked meat",
+      "bait",
+      "fodder",
+      "ingredient",
+      "cooked meat"
+    ]
+  ],
+  "@sk": [
+    [
+      [
+        "@",
+        "@ (male)",
+        "@ (female)"
+      ],
+      [
+        "@ (wild)",
+        "@ (wild male)",
+        "@ (wild female)"
+      ],
+      [
+        "@ (domesticated)",
+        "@ (domesticated male)",
+        "@ (domesticated female)"
+      ]
+    ],
+    [
+      [
+        "@ (resource)",
+        "@ (resource male)",
+        "@ (resource female)"
+      ],
+      [
+        "@ (prey)",
+        "@ (prey male)",
+        "@ (prey female)"
+      ],
+      [
+        "@ (processed)",
+        "@ (processed male)",
+        "@ (processed female)"
+      ]
+    ],
+    [
+      "egg",
+      "milk",
+      "oil/secretion/venom",
+      "fat",
+      "skin/hide",
+      "tail",
+      "tusk/horn",
+      "fur/feathers",
+      "flesh/meat"
+    ]
+  ],
+  "@fţ": [
+    [
+      [
+        "@",
+        "@ (male)",
+        "@ (female)"
+      ],
+      [
+        "@ (wild)",
+        "@ (wild male)",
+        "@ (wild female)"
+      ],
+      [
+        "@ (domesticated)",
+        "@ (domesticated male)",
+        "@ (domesticated female)"
+      ]
+    ],
+    [
+      [
+        "@ (resource)",
+        "@ (resource male)",
+        "@ (resource female)"
+      ],
+      [
+        "@ (prey)",
+        "@ (prey male)",
+        "@ (prey female)"
+      ],
+      [
+        "@ (processed)",
+        "@ (processed male)",
+        "@ (processed female)"
+      ]
+    ],
+    [
+      "egg",
+      "wing",
+      "oil/secretion",
+      "silk/web",
+      "skin/pellicle",
+      "tail",
+      "horn",
+      "leg"
+    ]
+  ],
+  "@pr": [
+    [
+      [
+        "@",
+        "@ (support)",
+        "@ (ambulator)"
+      ],
+      "physical",
+      "functional"
+    ],
+    "non-animal"
+  ],
+  "@g": [
+    [
+      [
+        "@",
+        "condition of @",
+        "@ (in relation to whole)"
+      ],
+      [
+        "@ (physical)",
+        "physical condition of @",
+        "@ (physical, in relation to whole)"
+      ],
+      [
+        "@ (function)",
+        "effect of @'s condition on function",
+        "@ (function in relation to whole)"
+      ]
+    ],
+    "separable"
+  ],
+  "@xl": [
+    [
+      [
+        "@ or chunk of @",
+        "derived @ or chunk of derived @",
+        "source of @"
+      ],
+      [
+        "chunk of @",
+        "chunk of derived @",
+        "natural source of @"
+      ],
+      [
+        "@",
+        "derived @",
+        "artificial source of @"
+      ]
+    ],
+    [
+      [
+        "@ or chunk of @ in abnormal liquid or gaseous state",
+        "thing made of @ or its function",
+        "status of @ being or not being solid"
+      ],
+      [
+        "@ or chunk of @ in abnormal liquid state",
+        "thing made of @",
+        "made of solid @"
+      ],
+      [
+        "@ or chunk of @ in abnormal gaseous state",
+        "function of thing made of @",
+        "made of quasi-solid @"
+      ]
+    ]
+  ],
+  "@kv": [
+    [
+      [
+        "degree of @",
+        "decrease in @",
+        "increase in @"
+      ],
+      "organic substance",
+      "synthetic substance"
+    ],
+    "abnormal"
+  ],
+  "@gm": [
+    [
+      [
+        "@",
+        "@, horizontally elongated",
+        "@, vertically elongated"
+      ],
+      "abstract",
+      "object with this form"
+    ],
+    [
+      [
+        "@, distorted",
+        "@, skewed",
+        "@, pinched"
+      ],
+      "abstract",
+      "object with this form"
+    ]
+  ],
+  "@xt'": [
+    [
+      [
+        "@",
+        "light @",
+        "dark @"
+      ],
+      [
+        "@ thing",
+        "light @ thing",
+        "dark @ thing"
+      ],
+      [
+        "the color @",
+        "the color light-@",
+        "the color dark-@"
+      ]
+    ],
+    [
+      [
+        "@ (dye)",
+        "light @ (dye)",
+        "dark @ (dye)"
+      ],
+      [
+        "@ thing (dyed)",
+        "light @ thing (dyed)",
+        "dark @ thing (dyed)"
+      ],
+      [
+        "the color @ (dye)",
+        "the color light-@ (dye)",
+        "the color dark-@ (dye)"
+      ]
+    ],
+    [
+      "extra light",
+      "pale",
+      "clear",
+      "fluorescent",
+      "vibrant",
+      "bright",
+      "ish",
+      "translucent",
+      "opaque",
+      "extra dark"
+    ]
+  ],
+  "@š": [
+    [
+      [
+        "@ + sensation",
+        "material impact of @ to object",
+        "material impact of @ to consumer"
+      ],
+      [
+        "object having @",
+        "assumed material impact of @ to object",
+        "assumed material impact of @ to consumer"
+      ],
+      [
+        "@ itself",
+        "actual material impact of @ to object",
+        "actual material impact of @ to consumer"
+      ]
+    ],
+    [
+      [
+        "act to render @ + result",
+        "emotional impact of @ to object",
+        "emotional impact of @ to consumer"
+      ],
+      [
+        "act to render @",
+        "assumed emotional impact of @ to object",
+        "assumed emotional impact of @ to consumer"
+      ],
+      [
+        "result of act to render @",
+        "actual emotional impact of @ to object",
+        "actual emotional impact of @ to consumer"
+      ]
+    ],
+    [
+      "sensuous reaction",
+      "fun reaction",
+      "soothing reaction",
+      "expected reaction",
+      "surprising+ reaction",
+      "surprising− reaction",
+      "annoying reaction",
+      "painful reaction"
+    ]
+  ],
+  "@f": [
+    [
+      [
+        "position @",
+        "orientation @",
+        "direction @"
+      ],
+      [
+        "position @ (one side)",
+        "orientation @ (one side)",
+        "direction @ (one side)"
+      ],
+      [
+        "position @ (other side)",
+        "orientation @ (other side)",
+        "direction @ (other side)"
+      ]
+    ],
+    [
+      [
+        "position @ (specific end)",
+        "orientation @ (specific end)",
+        "direction @ (specific end)"
+      ],
+      [
+        "specific position @ (one end)",
+        "specific orientation @ (one end)",
+        "specific direction @ (one end)"
+      ],
+      [
+        "specific position @ (other end)",
+        "specific orientation @ (other end)",
+        "specific direction @ (other end)"
+      ]
+    ]
+  ],
+  "@pk": [
+    [
+      [
+        "experience @",
+        "act caused by @",
+        "cause of @"
+      ],
+      "process focus",
+      "feeling focus"
+    ],
+    "institutional"
+  ],
+  "@kh": [
+    [
+      [
+        "@ relation",
+        "@ relation (dominant)",
+        "@ relation (passive)"
+      ],
+      "state",
+      "implications"
+    ],
+    "expected role"
+  ],
+  "@sxh": [
+    [
+      [
+        "chronic @",
+        "chronic infection @",
+        "chronic ideopathic/genetic @"
+      ],
+      "condition focus",
+      "symptom focus"
+    ],
+    [
+      [
+        "acute @",
+        "catch infectious @",
+        "acute ideopathic/genetic @"
+      ],
+      "condition focus",
+      "symptom focus"
+    ]
+  ],
+  "@ţq": [
+    [
+      [
+        "@",
+        "material impact of @ to object",
+        "material impact of @ to consumer"
+      ],
+      [
+        "object exhibiting @",
+        "assumed material impact of @ to object",
+        "assumed material impact of @ to consumer"
+      ],
+      [
+        "@ itself",
+        "actual material impact of @ to object",
+        "actual material impact of @ to consumer"
+      ]
+    ],
+    [
+      [
+        "act to give @",
+        "psych. impact of @ to object",
+        "psych. impact of @ to consumer"
+      ],
+      [
+        "act designed to give @",
+        "assumed psych. impact of @ to object",
+        "assumed psych. impact of @ to consumer"
+      ],
+      [
+        "result of act giving @",
+        "actual psych. impact of @ to object",
+        "actual psych. impact of @ to consumer"
+      ]
+    ]
+  ],
+  "@mx": [
+    [
+      [
+        "@",
+        "@ weather",
+        "@ flora/fauna state"
+      ],
+      "relative to annual cycle",
+      "focus on season"
+    ],
+    [
+      [
+        "@ custom/practice",
+        "@ weather-determined practice",
+        "@ flora/fauna-related practice"
+      ],
+      "relative to annual cycle",
+      "focus on season"
+    ]
+  ],
+  "b": [
+    [
+      [
+        "want",
+        "consciously want",
+        "wish"
+      ],
+      [
+        "desire feeling",
+        "conscious desire feeling",
+        "wish feeling"
+      ],
+      [
+        "thing wanted",
+        "thing consciously wanted",
+        "thing wished for"
+      ]
+    ],
+    [
+      [
+        "request",
+        "need",
+        "aspiration"
+      ],
+      [
+        "request desire feeling",
+        "need feeling",
+        "aspiration feeling"
+      ],
+      [
+        "thing requested",
+        "thing needed",
+        "goal"
+      ]
+    ]
+  ],
+  "bb": [
+    "@gv",
+    "coat"
+  ],
+  "bbr": [
+    [
+      [
+        "false physical concept",
+        "false chemical concept",
+        "false biological concept"
+      ],
+      "concept focus",
+      "impact focus"
+    ],
+    [
+      [
+        "false astronomy concept",
+        "false geology concept",
+        "false medicine concept"
+      ],
+      "concept focus",
+      "impact focus"
+    ]
+  ],
+  "bd": [
+    "@gv",
+    "necktie"
+  ],
+  "bdh": [
+    "@vr",
+    "octopus"
+  ],
+  "bg": [
+    "@vr",
+    "squid"
+  ],
+  "bj": [
+    "@vr",
+    "eel"
+  ],
+  "bk": [
+    "@vr",
+    "lamprey"
+  ],
+  "bkw": [
+    "@vr",
+    "pike"
+  ],
+  "bk'": [
+    "@vr",
+    "ray"
+  ],
+  "bkh": [
+    "@vr",
+    "shark"
+  ],
+  "bl": [
+    "@g",
+    "middle"
+  ],
+  "blw": [
+    "@xt'",
+    "aquamarine"
+  ],
+  "bm": [
+    "@vr",
+    "scallop"
+  ],
+  "bn": [
+    "@vr",
+    "mussel"
+  ],
+  "bq": [
+    "@vr",
+    "crap"
+  ],
+  "bqw": [
+    "@vr",
+    "bass"
+  ],
+  "bq'": [
+    "@vr",
+    "shrimp"
+  ],
+  "bqh": [
+    "@vr",
+    "lobster"
+  ],
+  "br": [
+    "@xt'",
+    "yellow"
+  ],
+  "bř": [
+    "@vr",
+    "clam"
+  ],
+  "bt": [
+    "@vr",
+    "trout"
+  ],
+  "bt'": [
+    "@vr",
+    "tuna"
+  ],
+  "bth": [
+    "@vr",
+    "salmon"
+  ],
+  "btw": [
+    "@vr",
+    "cod"
+  ],
+  "bv": [
+    [
+      [
+        "application of knowledge",
+        "theorize/theory",
+        "brainstorm"
+      ],
+      [
+        "knowledge application process",
+        "theorize",
+        "brainstorm process"
+      ],
+      [
+        "knowledge application result",
+        "theory",
+        "brainstorm result"
+      ]
+    ],
+    [
+      [
+        "piece of technology",
+        "prototype",
+        "breakthrough"
+      ],
+      "itself",
+      "function"
+    ]
+  ],
+  "bw": [
+    [
+      [
+        "mouth",
+        "lip",
+        "mouth (interior)"
+      ],
+      "physical",
+      "function"
+    ],
+    "figurative"
+  ],
+  "by": [
+    "@sk",
+    "dog"
+  ],
+  "bz": [
+    [
+      [
+        "describe",
+        "report",
+        "historical narrative"
+      ],
+      [
+        "describe (process)",
+        "report (process)",
+        "historically narrate (work)"
+      ],
+      [
+        "description (content)",
+        "report (content)",
+        "historical narrative (content)"
+      ]
+    ],
+    [
+      [
+        "story",
+        "recite",
+        "fictional narrative"
+      ],
+      [
+        "story (process)",
+        "recite (process)",
+        "fictionally narrate (work)"
+      ],
+      [
+        "story (content)",
+        "recitation (content)",
+        "fictional narrative (content)"
+      ]
+    ]
+  ],
+  "bzd": [
+    "@f",
+    "2d-between"
+  ],
+  "bzdw": [
+    "@sk",
+    "python"
+  ],
+  "bzg": [
+    "@f",
+    "1d-between"
+  ],
+  "bzgr": [
+    "@sk",
+    "viper"
+  ],
+  "bž": [
+    [
+      [
+        "eccentric",
+        "weird",
+        "unorthodox"
+      ],
+      "state focus",
+      "consequence focus"
+    ],
+    "self-aware"
+  ],
+  "c": [
+    [
+      [
+        "existing",
+        "law of nature",
+        "natural/inherent"
+      ],
+      "ontology",
+      "metaphysical"
+    ],
+    "epistemological"
+  ],
+  "cc": [
+    [
+      [
+        "degree of interest",
+        "degree of devotion",
+        "degree of capacity for involvement"
+      ],
+      "quality focus",
+      "feeling focus"
+    ],
+    [
+      [
+        "degree of emotional fulfillment",
+        "degree of emotional stability",
+        "degree of being in touch with emotions"
+      ],
+      "quality focus",
+      "feeling focus"
+    ]
+  ],
+  "ck": [
+    "@gv",
+    "hat"
+  ],
+  "ckh": [
+    [
+      [
+        "non-water liquid",
+        "non-water liquid in context of usage",
+        "frozen non-water liquid"
+      ],
+      [
+        "non-water liquid (substance)",
+        "non-water liquid as tool",
+        "freeze (as non-water liquid)"
+      ],
+      [
+        "degree of moisture (non-water)",
+        "wash, clean (with non-water)",
+        "float (on non-water)"
+      ]
+    ],
+    [
+      [
+        "non-water liquid as component of life",
+        "non-water liquid as nourishment; drink",
+        "non-water liquid as biological environment"
+      ],
+      [
+        "non-water liquid of corporeal body",
+        "act of drinking non-water liquid",
+        "natural/inherent (ontology, epistem.)"
+      ],
+      [
+        "existing (metaphysical, epistem.)",
+        "law of nature (metaphysical, epistem.)",
+        "natural/inherent (metaphysical, epistem.)"
+      ]
+    ]
+  ],
+  "cl": [
+    "@f",
+    "behind-below"
+  ],
+  "cm": [
+    [
+      [
+        "east-west designation",
+        "west designation",
+        "east designation"
+      ],
+      [
+        "east-west direction",
+        "west direction",
+        "east direction"
+      ],
+      [
+        "east-west geo. areal designation",
+        "west geo. areal designation",
+        "east geo. areal designation"
+      ]
+    ],
+    [
+      [
+        "longitude",
+        "west longitude",
+        "east longitude"
+      ],
+      [
+        "meridian",
+        "time zone",
+        "International Date Line"
+      ],
+      [
+        "zero meridian",
+        "Western Hemisphere",
+        "Eastern Hemisphere"
+      ]
+    ]
+  ],
+  "cn": [
+    [
+      [
+        "leaved plant + flower/fruit",
+        "grass/stalk + seed/grain",
+        "moss/fungus + spore/cyst"
+      ],
+      [
+        "leaved plant",
+        "grass/stalk",
+        "moss/fungus"
+      ],
+      [
+        "flower/fruit",
+        "seed/grain",
+        "spore/cyst"
+      ]
+    ],
+    "resource"
+  ],
+  "cp": [
+    "@f",
+    "left-ahead"
+  ],
+  "cp'": [
+    [
+      [
+        "flex joint",
+        "ball-and-socket joint",
+        "standard joint"
+      ],
+      [
+        "flex joint (body part)",
+        "ball-and-socket joint (body part)",
+        "standard joint (body part)"
+      ],
+      [
+        "flex joint (internal)",
+        "ball-and-socket joint (internal)",
+        "standard joint (internal)"
+      ]
+    ],
+    [
+      [
+        "specialized bodily joint",
+        "vertebra",
+        "wrist/ankle/waist"
+      ],
+      [
+        "specialized bodily joint",
+        "vertebra",
+        "wrist/ankle/waist"
+      ],
+      [
+        "specialized bodily joint",
+        "vertebra",
+        "wrist/ankle/waist"
+      ]
+    ]
+  ],
+  "cq": [
+    "@num",
+    "6"
+  ],
+  "cr": [
+    "@f",
+    "behind"
+  ],
+  "ct": [
+    "@f",
+    "right-ahead"
+  ],
+  "ct'": [
+    [
+      [
+        "solid cube",
+        "solid cuboid",
+        "solid disc"
+      ],
+      [
+        "abstract cube",
+        "abstract cuboid",
+        "abstract disc"
+      ],
+      [
+        "cube-shaped object",
+        "cuboid-shaped object",
+        "disc-shaped object"
+      ]
+    ],
+    "wireframe"
+  ],
+  "ctw": [
+    [
+      [
+        "measure of luminous intensity",
+        "measure of luminous flux",
+        "measure of luminance"
+      ],
+      "process",
+      "unit"
+    ],
+    [
+      [
+        "measure of illuminance",
+        "measure of photon flux",
+        "measure of other illumination phenomena"
+      ],
+      "process",
+      "unit"
+    ]
+  ],
+  "cw": [
+    "@f",
+    "left"
+  ],
+  "cx": [
+    "+dy",
+    "tactile"
+  ],
+  "cy": [
+    "@sk",
+    "mouse"
+  ],
+  "c'": [
+    "@pk",
+    "tenderness/caring"
+  ],
+  "ch": [
+    "@pk",
+    "grief"
+  ],
+  "ç": [
+    "@pk",
+    "excitement/thrill"
+  ],
+  "çc": [
+    "@gv",
+    "dress"
+  ],
+  "çcw": [
+    "@sk",
+    "shrew"
+  ],
+  "çç": [
+    "@pk",
+    "trance"
+  ],
+  "çč": [
+    "@pk",
+    "feeling-above-it-all"
+  ],
+  "çčw": [
+    "@sk",
+    "vole"
+  ],
+  "çf": [
+    "@pk",
+    "desire for new experiences"
+  ],
+  "çfl": [
+    "@kh",
+    "matched"
+  ],
+  "çk": [
+    "@pk",
+    "zeal"
+  ],
+  "çkç": [
+    "@kh",
+    "one-upmanship"
+  ],
+  "çkf": [
+    "@kh",
+    "interview"
+  ],
+  "çkl": [
+    "@kh",
+    "sports teammate"
+  ],
+  "çkr": [
+    "@kh",
+    "enmity/hatred"
+  ],
+  "çkţ": [
+    "@kh",
+    "co-participant"
+  ],
+  "çkv": [
+    "@kh",
+    "co-worker"
+  ],
+  "çkw": [
+    "@kh",
+    "sibling"
+  ],
+  "çky": [
+    "@kh",
+    "stigmatized group"
+  ],
+  "çk'": [
+    [
+      [
+        "flow of non-water liquid",
+        "shower of non-water",
+        "cascade/pour of non-water"
+      ],
+      [
+        "liquid component of non-water flow",
+        "liquid component of non-water shower",
+        "liquid component of non-water cascade"
+      ],
+      [
+        "course of non-water flow",
+        "course of non-water shower",
+        "course of non-water cascade"
+      ]
+    ],
+    [
+      [
+        "river of non-water liquid",
+        "rain of non-water",
+        "non-water waterfall"
+      ],
+      [
+        "liquid component of non-water river",
+        "liquid component of non-water rain",
+        "liquid component of non-water waterfall"
+      ],
+      [
+        "course of non-water river",
+        "course of non-water rain",
+        "course of non-water waterfall"
+      ]
+    ]
+  ],
+  "çkh": [
+    "@pk",
+    "post-orgasmic bliss"
+  ],
+  "çkhw": [
+    "@sk",
+    "porcupine"
+  ],
+  "çl": [
+    "@pk",
+    "carefreeness"
+  ],
+  "çm": [
+    "@pk",
+    "jollity"
+  ],
+  "çmw": [
+    "@kh",
+    "anger/resentment"
+  ],
+  "çn": [
+    "@pk",
+    "oneness with universe"
+  ],
+  "çnw": [
+    "@kh",
+    "creditor/debitor"
+  ],
+  "çp": [
+    "@pk",
+    "inspiration"
+  ],
+  "çpç": [
+    "@kh",
+    "lessor/lessee"
+  ],
+  "çpf": [
+    "@kh",
+    "sports adversary"
+  ],
+  "çpl": [
+    "@kh",
+    "official/applicant"
+  ],
+  "çpr": [
+    "@kh",
+    "circumstantial strangers"
+  ],
+  "çpř": [
+    "@kh",
+    "shared beliefs"
+  ],
+  "çpţ": [
+    "@kh",
+    "threat"
+  ],
+  "çpw": [
+    "@kh",
+    "holy order"
+  ],
+  "çph": [
+    "@sk",
+    "squirrel"
+  ],
+  "çphw": [
+    "@sk",
+    "possum"
+  ],
+  "çq": [
+    "@gv",
+    "skirt"
+  ],
+  "çqf": [
+    "@kh",
+    "jealousy"
+  ],
+  "çql": [
+    "@kh",
+    "co-authors"
+  ],
+  "çqr": [
+    "@kh",
+    "feud"
+  ],
+  "çqţ": [
+    "@kh",
+    "material envy"
+  ],
+  "çq'": [
+    "@sk",
+    "chipmunk"
+  ],
+  "çqh": [
+    "@pk",
+    "drug high"
+  ],
+  "çqhw": [
+    "@sk",
+    "mole"
+  ],
+  "çr": [
+    "@pk",
+    "cuteness reaction"
+  ],
+  "çt": [
+    [
+      [
+        "hold/keep",
+        "have room for",
+        "containment volume/boundary"
+      ],
+      "wall",
+      "room"
+    ],
+    [
+      [
+        "chamber",
+        "reside/room as residence",
+        "room boundaries"
+      ],
+      "separating inside from outside",
+      "shelter/sanctuary"
+    ]
+  ],
+  "çtl": [
+    "@kh",
+    "trader/barterer"
+  ],
+  "çtr": [
+    "@kh",
+    "presenter/audience"
+  ],
+  "çtř": [
+    "@kh",
+    "revenge enmity"
+  ],
+  "çtw": [
+    "@kh",
+    "autocrat/subjects"
+  ],
+  "çt'": [
+    "@sk",
+    "rat"
+  ],
+  "çth": [
+    "@pk",
+    "joie-de-vivre"
+  ],
+  "çthw": [
+    "@sk",
+    "skunk"
+  ],
+  "çv": [
+    "@pk",
+    "anticipation"
+  ],
+  "çw": [
+    "@pk",
+    "serenity"
+  ],
+  "č": [
+    [
+      [
+        "physical contact",
+        "application of pressure",
+        "set in motion via physical content"
+      ],
+      "focus on act",
+      "focus on effect"
+    ],
+    "with default appendage"
+  ],
+  "čk": [
+    [
+      [
+        "switch to different value",
+        "change course",
+        "change intensity"
+      ],
+      [
+        "switch to higher value",
+        "change to trickier course",
+        "increase intensity"
+      ],
+      [
+        "switch to lower value",
+        "change to easier course",
+        "decrease intensity"
+      ]
+    ],
+    "permanent/authoritative"
+  ],
+  "čkh": [
+    "@num",
+    "10¹⁶"
+  ],
+  "čl": [
+    "@f",
+    "right"
+  ],
+  "čm": [
+    [
+      [
+        "prepare food (without heat)",
+        "infrastructure for preparing food without heat",
+        "interface for preparing food without heat"
+      ],
+      "method",
+      "result"
+    ],
+    "commercial"
+  ],
+  "čn": [
+    [
+      [
+        "degree of consciousness",
+        "degree of wakefulness",
+        "degree of alertness"
+      ],
+      [
+        "capacity for consciousness",
+        "capacity for wakefulness",
+        "capacity for alertness"
+      ],
+      [
+        "object of consciousness",
+        "object of wakefulness/sleepiness",
+        "object of alertness"
+      ]
+    ],
+    [
+      [
+        "degree of activity",
+        "degree of dormancy",
+        "degree of diligence"
+      ],
+      [
+        "state of activity",
+        "state of dormancy",
+        "state of diligence"
+      ],
+      [
+        "object of activity",
+        "object of dormancy",
+        "object of diligence"
+      ]
+    ]
+  ],
+  "čp": [
+    "@f",
+    "left-behind"
+  ],
+  "čp'": [
+    "@xl",
+    "glass"
+  ],
+  "čq": [
+    "@f",
+    "above"
+  ],
+  "čq'": [
+    "@pk",
+    "deep personal contempt"
+  ],
+  "čr": [
+    "@sk",
+    "vulture"
+  ],
+  "čt": [
+    "@f",
+    "right-behind"
+  ],
+  "čthw": [
+    "+qw",
+    "gourd"
+  ],
+  "čv": [
+    "@gv",
+    "collar"
+  ],
+  "čw": [
+    "@f",
+    "ahead"
+  ],
+  "č'": [
+    [
+      [
+        "passage",
+        "infiltration of substances",
+        "filter"
+      ],
+      [
+        "enter",
+        "imbue",
+        "filter through"
+      ],
+      [
+        "exit",
+        "dispense",
+        "filter out"
+      ]
+    ],
+    [
+      [
+        "doorway portal",
+        "gateway/portal",
+        "checkpoint"
+      ],
+      [
+        "enter through primary entrance",
+        "receive",
+        "admit/let in"
+      ],
+      [
+        "exit through primary entrance",
+        "remove",
+        "oust/eject"
+      ]
+    ]
+  ],
+  "čh": [
+    [
+      [
+        "construct from materials",
+        "form from parts",
+        "integrate/organize"
+      ],
+      "work",
+      "product"
+    ],
+    [
+      [
+        "mechanically construct",
+        "integrate parts",
+        "machine / mechanical"
+      ],
+      "work",
+      "product"
+    ]
+  ],
+  "d": [
+    [
+      [
+        "name; to be called",
+        "designation; to refer",
+        "label/nickname; to go by"
+      ],
+      "reference focus",
+      "referent focus"
+    ],
+    [
+      [
+        "title + referent",
+        "formal designation + referent",
+        "role"
+      ],
+      "reference focus",
+      "referent focus"
+    ]
+  ],
+  "dbr": [
+    "@sxh",
+    "inflammatory disorder"
+  ],
+  "dby": [
+    "@sxh",
+    "pulmonary disorder"
+  ],
+  "dd": [
+    "@gv",
+    "pants"
+  ],
+  "ddl": [
+    "@sxh",
+    "degenerative tissue disorder"
+  ],
+  "ddr": [
+    "@sxh",
+    "mental disorder"
+  ],
+  "ddř": [
+    "@sxh",
+    "peripheral nervous system disorder"
+  ],
+  "ddw": [
+    "@sxh",
+    "topical skin disorder"
+  ],
+  "ddy": [
+    "@sxh",
+    "neuro-muscular disorder"
+  ],
+  "dg": [
+    "@gv",
+    "apron"
+  ],
+  "dgl": [
+    "@sxh",
+    "cellular/metabolic disorder"
+  ],
+  "dgr": [
+    "@sxh",
+    "cancer"
+  ],
+  "dgv": [
+    "@sxh",
+    "cardio-vascular disorder"
+  ],
+  "dgw": [
+    "@sxh",
+    "eye disorder"
+  ],
+  "dgy": [
+    "@sxh",
+    "neuro-muscular back pain"
+  ],
+  "dh": [
+    [
+      [
+        "water",
+        "water (usage)",
+        "ice"
+      ],
+      [
+        "water (substance)",
+        "water as tool",
+        "freeze"
+      ],
+      [
+        "degree of (water) moisture",
+        "wash with water",
+        "float in water"
+      ]
+    ],
+    [
+      [
+        "water as component of life",
+        "water as nourishment; drink water",
+        "water as biological environment"
+      ],
+      [
+        "water of one's body",
+        "act of drinking water",
+        "water from natural environment"
+      ],
+      [
+        "hydrate",
+        "to water (plants)",
+        "live in water"
+      ]
+    ]
+  ],
+  "dhb": [
+    [
+      [
+        "common sense",
+        "prudent/circumspect",
+        "wise/sagacious"
+      ],
+      "state focus",
+      "consequence focus"
+    ],
+    "self-aware"
+  ],
+  "dhbl": [
+    "@sxh",
+    "genetic disorder"
+  ],
+  "dhbv": [
+    "@sxh",
+    "endocrine disorder"
+  ],
+  "dhbw": [
+    "@sxh",
+    "musculo-skeletal disorder"
+  ],
+  "dhbz": [
+    "@sxh",
+    "throat/mouth disorder"
+  ],
+  "dhg": [
+    [
+      [
+        "brave/undaunted",
+        "courageous/intrepid",
+        "valorous/bold"
+      ],
+      "state focus",
+      "consequence focus"
+    ],
+    "self-aware"
+  ],
+  "dhgl": [
+    "@sxh",
+    "blood disorder"
+  ],
+  "dhgr": [
+    "@sxh",
+    "invasive skin disorder"
+  ],
+  "dhgv": [
+    "@sxh",
+    "spinal condition or disorder"
+  ],
+  "dhgw": [
+    "@sxh",
+    "microbial infection"
+  ],
+  "dhgy": [
+    "@sxh",
+    "physical brain disorder"
+  ],
+  "dhgz": [
+    "@sxh",
+    "bowel problem"
+  ],
+  "dhl": [
+    "@xt'",
+    "maroon"
+  ],
+  "dhm": [
+    "@sxh",
+    "common cold"
+  ],
+  "dhmw": [
+    "@sxh",
+    "non-cancerous growth"
+  ],
+  "dhmy": [
+    "@sxh",
+    "auto-immune condition"
+  ],
+  "dhn": [
+    "@pk",
+    "home-sweet-home"
+  ],
+  "dhnw": [
+    "@sxh",
+    "stomach disorder"
+  ],
+  "dhr": [
+    [
+      [
+        "motif (functional)",
+        "depiction (functional)",
+        "appreciation (functional)"
+      ],
+      "creation process focus",
+      "design focus"
+    ],
+    [
+      [
+        "motif (aesthetic)",
+        "depiction (aesthetic)",
+        "appreciation (aesthetic)"
+      ],
+      "creation process focus",
+      "design focus"
+    ]
+  ],
+  "dhř": [
+    "@xl",
+    "methanol"
+  ],
+  "dhv": [
+    [
+      [
+        "emotion-driven",
+        "whim-driven",
+        "mysticism-driven"
+      ],
+      "state focus",
+      "consequence focus"
+    ],
+    "self-aware"
+  ],
+  "dhw": [
+    "@xl",
+    "ethanol"
+  ],
+  "dhy": [
+    "@pr",
+    "tail"
+  ],
+  "dk": [
+    [
+      [
+        "buttock",
+        "breast",
+        "navel"
+      ],
+      "physical",
+      "function"
+    ],
+    [
+      [
+        "haunch",
+        "snout/proboscis",
+        "fin"
+      ],
+      "physical",
+      "function"
+    ]
+  ],
+  "dl": [
+    [
+      [
+        "hand",
+        "hand (grasping, striking)",
+        "hand (handling, feeling)"
+      ],
+      "physical",
+      "function"
+    ],
+    "non-animal"
+  ],
+  "dlw": [
+    "@sxh",
+    "nasal disorder"
+  ],
+  "dly": [
+    "@sxh",
+    "hearing problem"
+  ],
+  "dm": [
+    "@gv",
+    "robe"
+  ],
+  "dmy": [
+    "@sxh",
+    "neurological disorder"
+  ],
+  "dn": [
+    [
+      [
+        "being nice",
+        "goodwill",
+        "friendliness"
+      ],
+      "action focus",
+      "emotion focus"
+    ],
+    [
+      [
+        "good samaritanship",
+        "peace/fellowship",
+        "friendship (one-way)"
+      ],
+      "action focus",
+      "emotion focus"
+    ]
+  ],
+  "dnw": [
+    "@sxh",
+    "liver disorder"
+  ],
+  "dr": [
+    [
+      [
+        "guide (+ compliance)",
+        "manage (+ compliance)",
+        "discipline (+ obedience)"
+      ],
+      [
+        "guide",
+        "manage",
+        "discipline"
+      ],
+      [
+        "follow guide",
+        "comply",
+        "obey to discipline"
+      ]
+    ],
+    [
+      [
+        "rule (+ obedience)",
+        "govern (+ abidance)",
+        "moral guideline + rectitude"
+      ],
+      [
+        "rule over",
+        "govern",
+        "moral guideline"
+      ],
+      [
+        "obey rule",
+        "abide by law",
+        "personal rectitude"
+      ]
+    ]
+  ],
+  "dř": [
+    "@xt'",
+    "orange"
+  ],
+  "dv": [
+    "@kv",
+    "smoothness"
+  ],
+  "dw": [
+    "@kh",
+    "seller/buyer"
+  ],
+  "dy": [
+    [
+      [
+        "sense",
+        "sensory (organ)",
+        "imagine(d) sensation"
+      ],
+      [
+        "act of sensing",
+        "sense ability",
+        "imagine a sensation"
+      ],
+      [
+        "sensation",
+        "sensory organ",
+        "imagined sensation"
+      ]
+    ],
+    [
+      [
+        "examine via senses",
+        "sensory device + use",
+        "induce(d) sensation"
+      ],
+      [
+        "examination via senses",
+        "use of sensory device",
+        "induction of sensation"
+      ],
+      [
+        "sense-examined evidence",
+        "sensory device",
+        "induced sensation"
+      ]
+    ]
+  ],
+  "f": [
+    "@f",
+    "at"
+  ],
+  "fc": [
+    "@fţ",
+    "flying bug"
+  ],
+  "fč": [
+    "@pk",
+    "disdain"
+  ],
+  "ff": [
+    [
+      [
+        "sigh (affective)",
+        "squeal/moan (affective)",
+        "gasp (affective)"
+      ],
+      "pleasure",
+      "pain"
+    ],
+    [
+      [
+        "sigh (deliberate)",
+        "squeal/moan (deliberate)",
+        "gasp (deliberate)"
+      ],
+      "pleasure",
+      "pain"
+    ]
+  ],
+  "ffm": [
+    "@kh",
+    "predator/prey"
+  ],
+  "ffr": [
+    "@kh",
+    "allies"
+  ],
+  "ffy": [
+    "@fţ",
+    "gnat"
+  ],
+  "fk": [
+    [
+      [
+        "belief/believe",
+        "trust",
+        "belief/believe in oneself"
+      ],
+      [
+        "state of belief",
+        "state of trust",
+        "state of self-confidence"
+      ],
+      [
+        "thing believed",
+        "thing trusted",
+        "thing self-confident about"
+      ]
+    ],
+    [
+      [
+        "article of faith",
+        "act of assurance",
+        "make certain"
+      ],
+      "state",
+      [
+        "article of faith",
+        "thing assured",
+        "thing made certain"
+      ]
+    ]
+  ],
+  "fk'": [
+    "@xl",
+    "sulfur"
+  ],
+  "fkç": [
+    "@fţ",
+    "aphid"
+  ],
+  "fkh": [
+    "@xl",
+    "lead"
+  ],
+  "fkhw": [
+    "+qw",
+    "safflower"
+  ],
+  "fkl": [
+    "@kh",
+    "matchmaker/parties being matched"
+  ],
+  "fkr": [
+    "@fţ",
+    "mosquito"
+  ],
+  "fkř": [
+    "@kh",
+    "warring parties"
+  ],
+  "fkţ": [
+    "@kh",
+    "lender/borrower"
+  ],
+  "fkw": [
+    "@kh",
+    "entertainer/audience"
+  ],
+  "fky": [
+    "@kh",
+    "invader/invadee"
+  ],
+  "fl": [
+    "@xt'",
+    "black"
+  ],
+  "fly": [
+    "@fţ",
+    "housefly"
+  ],
+  "fn": [
+    [
+      [
+        "cousin",
+        "male cousin",
+        "female cousin"
+      ],
+      "through mother",
+      "through father"
+    ],
+    [
+      [
+        "step-cousin",
+        "male step-cousin",
+        "female step-cousin"
+      ],
+      "through stepmother",
+      "through stepfather"
+    ]
+  ],
+  "fpç": [
+    "@fţ",
+    "butterfly"
+  ],
+  "fpl": [
+    "@kh",
+    "perpetrator/victim"
+  ],
+  "fpţ": [
+    "@fţ",
+    "firefly"
+  ],
+  "fq": [
+    [
+      [
+        "egoistic (virtue)",
+        "individualistic",
+        "personal integrity"
+      ],
+      "state focus",
+      "consequence focus"
+    ],
+    "self-aware"
+  ],
+  "fqh": [
+    "@pk",
+    "bother, annoyance"
+  ],
+  "fql": [
+    "@kh",
+    "advisor/advisee"
+  ],
+  "fqr": [
+    "@kh",
+    "fellowship/fraternity"
+  ],
+  "fqţ": [
+    "@kh",
+    "fellow hobbyists or enthusiasts"
+  ],
+  "fr": [
+    [
+      [
+        "moment",
+        "a while",
+        "portion of day"
+      ],
+      "elapsed time",
+      "time during which"
+    ],
+    [
+      [
+        "second",
+        "minute",
+        "hour"
+      ],
+      "elapsed time",
+      "time during which"
+    ]
+  ],
+  "fř": [
+    [
+      [
+        "weakness/infirmity",
+        "disability",
+        "handicapped"
+      ],
+      "condition focus",
+      "impact focus"
+    ],
+    [
+      [
+        "acute infirmity",
+        "injury",
+        "temporarily impaired"
+      ],
+      "condition focus",
+      "impact focus"
+    ]
+  ],
+  "fs": [
+    "@g",
+    "side/flank"
+  ],
+  "fsk": [
+    "@kh",
+    "club members"
+  ],
+  "fsk'": [
+    "@kh",
+    "owner/pet"
+  ],
+  "fskh": [
+    "@fţ",
+    "dragonfly"
+  ],
+  "fsm": [
+    "@fţ",
+    "wasp"
+  ],
+  "fsn": [
+    "@kh",
+    "management"
+  ],
+  "fsp": [
+    "@kh",
+    "business associates"
+  ],
+  "fsp'": [
+    "@fţ",
+    "grasshopper"
+  ],
+  "fsq": [
+    "@kh",
+    "members of secret society"
+  ],
+  "fsq'": [
+    "@kh",
+    "center of attention/sycophant"
+  ],
+  "fsqh": [
+    "@kh",
+    "sage/disciples"
+  ],
+  "fsqw": "pheasant",
+  "fst": [
+    "@fţ",
+    "moth"
+  ],
+  "fsy": [
+    "@fţ",
+    "flea"
+  ],
+  "fš": [
+    [
+      [
+        "torso",
+        "abdomen",
+        "chest (upper front torso)"
+      ],
+      "(physical)",
+      "(function)"
+    ],
+    "non-animal"
+  ],
+  "fšk": [
+    "@fţ",
+    "bumblebee"
+  ],
+  "fšk'": [
+    "@kh",
+    "boss/employee"
+  ],
+  "fškh": [
+    "@kh",
+    "fan/celebrity"
+  ],
+  "fšp": [
+    "@fţ",
+    "honeybee"
+  ],
+  "fšp'": [
+    "@fţ",
+    "hornet"
+  ],
+  "fšqh": [
+    "@fţ",
+    "mantis"
+  ],
+  "fšth": [
+    "@fţ",
+    "locust"
+  ],
+  "ft": [
+    "@kv",
+    "fullness"
+  ],
+  "fţ": [
+    "@fţ",
+    "insect"
+  ],
+  "fth": [
+    "@gv",
+    "legging/sock"
+  ],
+  "fw": [
+    [
+      [
+        "arrangement",
+        "hierarchical ranking",
+        "symmetrical arrangement"
+      ],
+      "process",
+      "resulting order"
+    ],
+    [
+      [
+        "something regular",
+        "assortment",
+        "classification"
+      ],
+      "process",
+      "resulting order"
+    ]
+  ],
+  "fy": [
+    "@num",
+    "8"
+  ],
+  "g": [
+    "@g",
+    "part"
+  ],
+  "gb": [
+    [
+      [
+        "imaginary creature",
+        "winged imaginary creature",
+        "reptilian imaginary creature"
+      ],
+      "physical",
+      "behavioral"
+    ],
+    [
+      [
+        "mythological creature",
+        "legendary being (allegedly real)",
+        "extraterrestrial being"
+      ],
+      "physical",
+      "behavioral"
+    ]
+  ],
+  "gd": [
+    [
+      [
+        "neck",
+        "neck (as body support)",
+        "neck (as narrow vulnerable body part)"
+      ],
+      "physical",
+      "functional"
+    ],
+    "non-animal"
+  ],
+  "gdh": [
+    "@xl",
+    "cloth/fabric"
+  ],
+  "gdr": [
+    "@sk",
+    "albatross"
+  ],
+  "gg": [
+    "@gv",
+    "veil"
+  ],
+  "gl": [
+    [
+      [
+        "state of physical health",
+        "physical illness",
+        "physical injury"
+      ],
+      "effect focus",
+      "cause focus"
+    ],
+    [
+      [
+        "state of mental health",
+        "mental illness",
+        "mental trauma"
+      ],
+      "effect focus",
+      "cause focus"
+    ]
+  ],
+  "gm": [
+    "@gm",
+    "2D outline"
+  ],
+  "gn": [
+    "@xl",
+    "wax"
+  ],
+  "gr": [
+    [
+      [
+        "food/eat and drink",
+        "food/eat",
+        "drink"
+      ],
+      [
+        "eat and drink",
+        "eat",
+        "to drink"
+      ],
+      [
+        "food and drink",
+        "food",
+        "something to drink"
+      ]
+    ],
+    [
+      [
+        "serving of food; dine",
+        "(eat) cooked food",
+        "(drink) processed drink"
+      ],
+      [
+        "dine",
+        "eat cooked food",
+        "drink processed drink"
+      ],
+      [
+        "serving of food",
+        "cooked food",
+        "processed drink"
+      ]
+    ]
+  ],
+  "gř": [
+    "@xt'",
+    "sky blue"
+  ],
+  "gv": [
+    "@gv",
+    "article of clothing"
+  ],
+  "gw": [
+    [
+      [
+        "ambulate",
+        "rapidly ambulate",
+        "unnaturally ambulate"
+      ],
+      "gait focus",
+      "motion focus"
+    ],
+    "deliberate/formal"
+  ],
+  "gy": [
+    "@xt'",
+    "white"
+  ],
+  "gz": [
+    "@kv",
+    "tenseness"
+  ],
+  "gzb": [
+    "@f",
+    "intertwined at"
+  ],
+  "gzbl": [
+    "@sk",
+    "cobra"
+  ],
+  "gzd": [
+    "@f",
+    "right-above"
+  ],
+  "gzdr": [
+    "@sk",
+    "rattlesnake"
+  ],
+  "gzdw": [
+    "@sk",
+    "asp"
+  ],
+  "gzl": [
+    "@f",
+    "0/0/0"
+  ],
+  "gzv": [
+    "@f",
+    "right-below"
+  ],
+  "gž": [
+    "@pk",
+    "heartache"
+  ],
+  "j": [
+    [
+      [
+        "move vertically",
+        "vertical course",
+        "move vertically between points"
+      ],
+      [
+        "move out vertically",
+        "move away vertically",
+        "leave vertically"
+      ],
+      [
+        "move in vertically",
+        "get closer vertically",
+        "approach vertically"
+      ]
+    ],
+    [
+      [
+        "travel vertically",
+        "vertical route",
+        "travel vertically between points"
+      ],
+      [
+        "go travelling vertically",
+        "travel away vertically",
+        "depart vertically"
+      ],
+      [
+        "journey vertically toward",
+        "close in vertically",
+        "arrive vertically"
+      ]
+    ]
+  ],
+  "jgw": [
+    "@sk",
+    "hawk"
+  ],
+  "jj": [
+    [
+      [
+        "action in situ",
+        "motion of part in situ",
+        "specific pattern of movement (SSD)"
+      ],
+      "movement focus",
+      "impact focus"
+    ],
+    [
+      [
+        "bodily action in situ",
+        "motoin of limb in situ",
+        "dance"
+      ],
+      "deliberate",
+      "non-deliberate"
+    ]
+  ],
+  "jk": [
+    "@gm",
+    "oval"
+  ],
+  "jm": "in-law-foster relations",
+  "jph": [
+    "@gm",
+    "egg shape"
+  ],
+  "jq'": [
+    "@xl",
+    "platinum"
+  ],
+  "jr": [
+    [
+      [
+        "perseverance",
+        "audacity",
+        "definace"
+      ],
+      "state focus",
+      "consequence focus"
+    ],
+    "self-aware"
+  ],
+  "jth": [
+    "@gm",
+    "semi-circle"
+  ],
+  "jv": [
+    [
+      [
+        "imitate",
+        "mimic/feign",
+        "make-believe"
+      ],
+      "performed act focus",
+      "observed role focus"
+    ],
+    [
+      [
+        "simulate",
+        "impersonate",
+        "enact"
+      ],
+      "performed act focus",
+      "observed role focus"
+    ]
+  ],
+  "jw": [
+    "@gv",
+    "scarf"
+  ],
+  "k": [
+    [
+      [
+        "move",
+        "course",
+        "move between points"
+      ],
+      [
+        "move out",
+        "move away",
+        "leave"
+      ],
+      [
+        "move in",
+        "get closer",
+        "approach"
+      ]
+    ],
+    [
+      [
+        "travel",
+        "route",
+        "travel between points"
+      ],
+      [
+        "go travelling",
+        "travel away",
+        "depart"
+      ],
+      [
+        "journey toward",
+        "close in",
+        "arrive"
+      ]
+    ]
+  ],
+  "k'": [
+    [
+      [
+        "ray of sunlight",
+        "the Sun",
+        "star"
+      ],
+      "light",
+      "energy/heat"
+    ],
+    [
+      [
+        "ray of energy",
+        "flame",
+        "artificial light source"
+      ],
+      "light",
+      "energy/heat"
+    ]
+  ],
+  "kc": [
+    [
+      [
+        "critter",
+        "microbe",
+        "non-microbial animal"
+      ],
+      [
+        "bacterium",
+        "virus",
+        "protist"
+      ],
+      [
+        "soft-bodied animal",
+        "exoskeletal animal",
+        "endoskeletal animal"
+      ]
+    ],
+    "as resource"
+  ],
+  "kç": [
+    [
+      [
+        "itch",
+        "tingle",
+        "sting"
+      ],
+      "sensation focus",
+      "source focus"
+    ],
+    [
+      [
+        "crawling sensation",
+        "tickle",
+        "feeling of hairs standing on end"
+      ],
+      "sensation focus",
+      "source focus"
+    ]
+  ],
+  "kč": [
+    [
+      [
+        "ask/grant excuse",
+        "ask/grant forgiveness",
+        "atonement/redemption"
+      ],
+      [
+        "ask to be excused",
+        "beg forgiveness",
+        "atone"
+      ],
+      [
+        "to excuse",
+        "to forgive",
+        "to redeem"
+      ]
+    ],
+    [
+      [
+        "seek/grant appeasement",
+        "seek/grant absolution",
+        "seek/grant amnesty"
+      ],
+      [
+        "seek appeasement",
+        "seek absolution",
+        "seek amnesty"
+      ],
+      [
+        "appease",
+        "absolve",
+        "grant amnesty"
+      ]
+    ]
+  ],
+  "kčhw": [
+    "+qw",
+    "ginger"
+  ],
+  "kd": [
+    [
+      [
+        "apprehend",
+        "catch",
+        "take over"
+      ],
+      "act focus",
+      "freedom deprivation focus"
+    ],
+    [
+      [
+        "confiscate",
+        "seize",
+        "usurp"
+      ],
+      "act focus",
+      "deprivation focus"
+    ]
+  ],
+  "kf": [
+    [
+      [
+        "tooth",
+        "fingernail/toenail/claw",
+        "wart/callus/scar"
+      ],
+      "tissue focus",
+      "function focus"
+    ],
+    [
+      [
+        "head hair",
+        "facial hair",
+        "pubic/armpit hair"
+      ],
+      "tissue focus",
+      "function focus"
+    ]
+  ],
+  "kh": [
+    "@kh",
+    "social"
+  ],
+  "khw": [
+    "@xt'",
+    "purple"
+  ],
+  "kk": [
+    "@kv",
+    "solidity"
+  ],
+  "kk'": [
+    "@kh",
+    "business partnership"
+  ],
+  "kkr": [
+    "+j",
+    "oblique"
+  ],
+  "kl": [
+    [
+      [
+        "flow of water",
+        "shower",
+        "cascade/pour"
+      ],
+      [
+        "water component of flow",
+        "water component of shower",
+        "water component of cascade"
+      ],
+      [
+        "course of flow",
+        "course of shower",
+        "course of cascade"
+      ]
+    ],
+    [
+      [
+        "river",
+        "rain",
+        "waterfall"
+      ],
+      [
+        "water component of river",
+        "water component of rain",
+        "water component of waterfall"
+      ],
+      [
+        "course of river",
+        "course of rain",
+        "groove of waterfall"
+      ]
+    ]
+  ],
+  "klw": [
+    "@xt'",
+    "turquoise"
+  ],
+  "km": [
+    "@kv",
+    "weight/mass"
+  ],
+  "kn": [
+    "@sk",
+    "snake"
+  ],
+  "kp": [
+    "@kp",
+    "length"
+  ],
+  "kpl": [
+    [
+      []
+    ]
+  ],
+  "kr": [
+    [
+      [
+        "tool as extension of appendage",
+        "tool as nature defier",
+        "resource for a tool"
+      ],
+      "thing",
+      "function"
+    ],
+    [
+      [
+        "utensil",
+        "motorized tool",
+        "fuel/input for a motorized tool"
+      ],
+      "thing",
+      "function"
+    ]
+  ],
+  "ks": [
+    "@num",
+    "2"
+  ],
+  "kš": [
+    [
+      [
+        "fool",
+        "buffoon",
+        "nerd"
+      ],
+      "for laughs",
+      "poignant context"
+    ],
+    [
+      [
+        "town fool",
+        "clown",
+        "jester"
+      ],
+      "entertainment",
+      "parody"
+    ]
+  ],
+  "ksf": [
+    "@f",
+    "3D-between"
+  ],
+  "ksl": [
+    "@f",
+    "left-above"
+  ],
+  "ksn": [
+    [
+      [
+        "naïve",
+        "clueless",
+        "ignorant"
+      ],
+      "state focus",
+      "consequence focus"
+    ],
+    "self-aware"
+  ],
+  "ksp": [
+    "@f",
+    "left-ahead-above"
+  ],
+  "kšp": [
+    "@f",
+    "left-behind-above"
+  ],
+  "ksr": [
+    "@f",
+    "below"
+  ],
+  "kst": [
+    "@f",
+    "right-ahead-above"
+  ],
+  "kšt": [
+    "@f",
+    "right-behind-above"
+  ],
+  "ksw": [
+    "@f",
+    "left-below"
+  ],
+  "ksţ": [
+    [
+      [
+        "math limit",
+        "math derivative",
+        "math integral"
+      ],
+      [
+        "limit of function",
+        "Δy",
+        "antiderivative"
+      ],
+      [
+        "limit of series",
+        "Δx",
+        "definite integral"
+      ]
+    ],
+    [
+      [
+        "handle limit expression",
+        "handle derivative expression",
+        "handle integral expression"
+      ],
+      "express",
+      "calculate"
+    ]
+  ],
+  "ksv": [
+    [
+      [
+        "exponentiation",
+        "logarithm",
+        "antilogarithm"
+      ],
+      [
+        "exponent base",
+        "logarithm base",
+        "antilogarithm base"
+      ],
+      [
+        "exponent power",
+        "logarithm value",
+        "antilogarithm value"
+      ]
+    ],
+    [
+      [
+        "as base-and-exponent",
+        "as logarithm",
+        "as antilogarithm"
+      ],
+      "express",
+      "calculate"
+    ]
+  ],
+  "kt": [
+    [
+      [
+        "stone",
+        "sand",
+        "clay"
+      ],
+      "substance",
+      "substrate identifier"
+    ],
+    [
+      [
+        "rock",
+        "gravel",
+        "lava"
+      ],
+      "substance",
+      "substrate identifier"
+    ]
+  ],
+  "kth": [
+    [
+      [
+        "atom",
+        "atomic nucleus",
+        "atomic electron cloud"
+      ],
+      "physical",
+      "behavioral"
+    ],
+    [
+      [
+        "instance of chemical element",
+        "nuclide",
+        "orbital state"
+      ],
+      "physical",
+      "effect"
+    ]
+  ],
+  "ktr": [
+    [
+      [
+        "deal with",
+        "confront",
+        "pertain to"
+      ],
+      "act focus",
+      "outcome focus"
+    ],
+    [
+      [
+        "engage in",
+        "do business with",
+        "affiliate with"
+      ],
+      "act focus",
+      "outcome focus"
+    ]
+  ],
+  "kţ": [
+    [
+      [
+        "self-similarity",
+        "similarity to another",
+        "remind of"
+      ],
+      "impression focus",
+      "purpose focus"
+    ],
+    [
+      [
+        "self-same",
+        "identical to another",
+        "same (copy/replacement)"
+      ],
+      "identity focus",
+      "purpose focus"
+    ]
+  ],
+  "kt'": [
+    [
+      [
+        "hover against medium",
+        "hover in gravity",
+        "orbit"
+      ],
+      "object",
+      "state"
+    ],
+    "artificial"
+  ],
+  "kţkl": [
+    "@sk",
+    "heron"
+  ],
+  "kţr": [
+    "@sk",
+    "eagle"
+  ],
+  "kv": [
+    "@kv",
+    "…"
+  ],
+  "kw": [
+    "@xt'",
+    "colored"
+  ],
+  "ky": [
+    "+ph",
+    "coffee"
+  ],
+  "l": [
+    [
+      [
+        "vocal utter",
+        "speak",
+        "express"
+      ],
+      "audio",
+      "content"
+    ],
+    [
+      [
+        "meaning of vocal utterance",
+        "meaning of word",
+        "meaning of phrase"
+      ],
+      "objective",
+      "subjective"
+    ]
+  ],
+  "ļ": [
+    [
+      [
+        "respire",
+        "yawn",
+        "pump"
+      ],
+      "gas transfer focus",
+      "physiological focus"
+    ],
+    [
+      [
+        "inflate",
+        "blow",
+        "suck"
+      ],
+      "gas transfer focus",
+      "physiological focus"
+    ]
+  ],
+  "@lb": [
+    [
+      [
+        "@",
+        "increase in @",
+        "decrease in @"
+      ],
+      "spatial",
+      "temporal"
+    ],
+    "gestalt"
+  ],
+  "lb": [
+    "@lb",
+    "dimensional property"
+  ],
+  "lbw": [
+    "@sk",
+    "whale"
+  ],
+  "lc": [
+    "@lb",
+    "distance"
+  ],
+  "lč": [
+    "@lb",
+    "girth"
+  ],
+  "lç": [
+    "@lb",
+    "width"
+  ],
+  "lc'": [
+    "@lb",
+    "planarity"
+  ],
+  "lč'": [
+    "@lb",
+    "edge sharpness"
+  ],
+  "lch": [
+    [
+      [
+        "upright position",
+        "stick up/out",
+        "perpendicular"
+      ],
+      "position focus",
+      "object focus"
+    ],
+    [
+      [
+        "vertical",
+        "maximally un-reposed",
+        "pulled to maximum height"
+      ],
+      "position focus",
+      "object focus"
+    ]
+  ],
+  "ld": [
+    "@lb",
+    "amplitude"
+  ],
+  "ldh": [
+    "@lb",
+    "reach"
+  ],
+  "ldr": [
+    "@sk",
+    "boar"
+  ],
+  "ldw": [
+    "@sk",
+    "cheetah"
+  ],
+  "lf": [
+    "@lb",
+    "depth"
+  ],
+  "lfq": "self-concern/selfishness",
+  "lfw": [
+    "@sk",
+    "frog"
+  ],
+  "lg": [
+    "@lb",
+    "gap"
+  ],
+  "lgw": [
+    "@sk",
+    "otter"
+  ],
+  "lk": [
+    "@lb",
+    "height"
+  ],
+  "lk'": [
+    "@lb",
+    "straightness"
+  ],
+  "lkh": [
+    "@kh",
+    "master/servant"
+  ],
+  "lkhw": [
+    "+qw",
+    "mint"
+  ],
+  "lkw": [
+    [
+      [
+        "friendly",
+        "vivacious",
+        "larger-than-life"
+      ],
+      "state focus",
+      "consequence focus"
+    ],
+    "self-aware"
+  ],
+  "ll": [
+    [
+      [
+        "one",
+        "alone/sole",
+        "unique"
+      ],
+      [
+        "unit (no copies)",
+        "alone (no copies)",
+        "unique (no copies)"
+      ],
+      [
+        "unit (indivisible)",
+        "alone (indivisible)",
+        "unique (indivisible)"
+      ]
+    ],
+    [
+      [
+        "singular",
+        "isolated",
+        "independent"
+      ],
+      "no copies",
+      "indivisible"
+    ]
+  ],
+  "lm": [
+    [
+      [
+        "musical note",
+        "consciously select musical note",
+        "musical beat"
+      ],
+      "sound",
+      "production"
+    ],
+    "sung"
+  ],
+  "lmz": [
+    "@sk",
+    "dolphin"
+  ],
+  "ln": [
+    "@g",
+    "front"
+  ],
+  "lntw": [
+    "@sk",
+    "nightingale"
+  ],
+  "lp": [
+    "@lb",
+    "speed"
+  ],
+  "lp'": [
+    "@lb",
+    "volume"
+  ],
+  "lphw": [
+    "@sk",
+    "walrus"
+  ],
+  "lq": [
+    "@lb",
+    "point sharpness"
+  ],
+  "lq'": [
+    "@lb",
+    "straight-angledness"
+  ],
+  "lqh": [
+    [
+      [
+        "vertebral waterlife",
+        "arthropod waterlife",
+        "soft-bodied waterlife"
+      ],
+      [
+        "jellyfish-like waterlife",
+        "crustacean",
+        "shellfish"
+      ],
+      [
+        "gilled/finned fish",
+        "weird fish",
+        "sea mammal"
+      ]
+    ],
+    "domesticated"
+  ],
+  "lr": [
+    "@lb",
+    "roundness"
+  ],
+  "lř": [
+    [
+      [
+        "marsupial",
+        "ovoviviparous mammal",
+        "placental mammal"
+      ],
+      "male",
+      "female"
+    ],
+    "domesticated"
+  ],
+  "ls": [
+    "@lb",
+    "levelness"
+  ],
+  "lš": [
+    "@lb",
+    "periphery"
+  ],
+  "lskw": [
+    "@sk",
+    "antelope"
+  ],
+  "lt": [
+    [
+      [
+        "write symbol",
+        "write message",
+        "compose via writing"
+      ],
+      [
+        "inscribe symbol",
+        "inscribe message",
+        "compose via inscribing"
+      ],
+      [
+        "communicate written symbol",
+        "communicate written message",
+        "communicate composed writing"
+      ]
+    ],
+    [
+      [
+        "written record",
+        "document",
+        "page of writing"
+      ],
+      "physical",
+      "content"
+    ]
+  ],
+  "lt'": [
+    "@lb",
+    "perpendicularity"
+  ],
+  "lth": [
+    [
+      [
+        "spirit",
+        "deity",
+        "demon"
+      ],
+      "male",
+      "female"
+    ],
+    [
+      [
+        "angel",
+        "creator deity",
+        "devil"
+      ],
+      "male",
+      "female"
+    ]
+  ],
+  "ltw": [
+    "@sk",
+    "goat"
+  ],
+  "lţ": [
+    "@lb",
+    "concavity"
+  ],
+  "lţr": [
+    "@sk",
+    "turtle"
+  ],
+  "lv": [
+    "@lb",
+    "smoothness"
+  ],
+  "lx": [
+    "@lb",
+    "convexity"
+  ],
+  "lxh": [
+    "@xt'",
+    "brown"
+  ],
+  "lxw": [
+    "@sk",
+    "rabbit"
+  ],
+  "ly": [
+    [
+      [
+        "add/subtract",
+        "multiply/divide",
+        "arithmetical/mathematical expression"
+      ],
+      [
+        "add",
+        "multiply",
+        "arithmetical expression"
+      ],
+      [
+        "subtract",
+        "divide",
+        "mathematical expression"
+      ]
+    ],
+    [
+      [
+        "sum/difference",
+        "product/quotient",
+        "solve arithmetically/mathematically"
+      ],
+      [
+        "sum",
+        "product",
+        "calculate arithmetically"
+      ],
+      [
+        "difference",
+        "quotient",
+        "solve mathematically"
+      ]
+    ]
+  ],
+  "lz": [
+    "@lb",
+    "smooth-edgedness"
+  ],
+  "lż": [
+    [
+      [
+        "mouth sound",
+        "throat sound",
+        "bodily sound"
+      ],
+      "act focus",
+      "sound focus"
+    ],
+    [
+      [
+        "consonant",
+        "vowel",
+        "phoneme"
+      ],
+      "act focus",
+      "sound focus"
+    ]
+  ],
+  "lž": [
+    "@lb",
+    "stretchability"
+  ],
+  "lzw": [
+    "@sk",
+    "goose"
+  ],
+  "lżw": [
+    "@sk",
+    "gila monster"
+  ],
+  "ļkh": [
+    "@xt'",
+    "ecru"
+  ],
+  "ļļ": [
+    "@ţq",
+    "compactness"
+  ],
+  "ļm": [
+    "@ţq",
+    "inertness (vs. springiness)"
+  ],
+  "ļn": [
+    [
+      [
+        "mammal",
+        "bug",
+        "avian/reptilian"
+      ],
+      [
+        "insect",
+        "worm",
+        "arthropod/arachnid"
+      ],
+      [
+        "mollusc",
+        "bird",
+        "reptile"
+      ]
+    ],
+    "domesticated"
+  ],
+  "ļp": [
+    "@ţq",
+    "stiffness (vs. sponginess)"
+  ],
+  "ļp'": [
+    "@ţq",
+    "buoyancy"
+  ],
+  "ļph": [
+    "@xt'",
+    "ochre"
+  ],
+  "ļq": [
+    "@xl",
+    "tin"
+  ],
+  "ļq'": [
+    "@ţq",
+    "spreadability"
+  ],
+  "ļqh": [
+    "@ţq",
+    "deformability"
+  ],
+  "ļw": [
+    "@ţq",
+    "rigidity (vs. elasticity)"
+  ],
+  "m": [
+    [
+      [
+        "seem",
+        "seem on first blush",
+        "seem superficially"
+      ],
+      "focus on object",
+      "focus on observer"
+    ],
+    [
+      [
+        "seem ostensibly",
+        "resemble",
+        "façade/veneer"
+      ],
+      "focus on object",
+      "focus on observer"
+    ]
+  ],
+  "mb": [
+    [
+      [
+        "geographical feature",
+        "geographical area",
+        "natural piece of territory"
+      ],
+      "geophysical focus",
+      "as habitat"
+    ],
+    [
+      [
+        "geopolitical feature",
+        "geopolitical area",
+        "piece of property"
+      ],
+      "political entity focus",
+      "political boundary focus"
+    ]
+  ],
+  "mbr": [
+    [
+      [
+        "scalar",
+        "vector",
+        "tensor"
+      ],
+      [
+        "magnitude of vector",
+        "Euclidean vector",
+        "tensor as array"
+      ],
+      [
+        "direction of vector",
+        "non-Euclidean vector",
+        "tensor as linear map"
+      ]
+    ],
+    [
+      [
+        "scalar product",
+        "vector space",
+        "tensor field"
+      ],
+      [
+        "dot product",
+        "Euclidean vector space",
+        "tensor product of vector space"
+      ],
+      [
+        "inner product of vectors",
+        "non-Euclidean vector space",
+        "point in a tensor field"
+      ]
+    ]
+  ],
+  "mç": [
+    "@kv",
+    "durability"
+  ],
+  "mf": [
+    "@gv",
+    "glove"
+  ],
+  "mft": [
+    [
+      [
+        "milk",
+        "milk byproduct",
+        "dairy product"
+      ],
+      "as entity",
+      "as food"
+    ],
+    [
+      [
+        "fermented milk",
+        "food made with milk",
+        "food made with dairy"
+      ],
+      "as entity",
+      "as food"
+    ]
+  ],
+  "mg": [
+    "@xt'",
+    "peach (color)"
+  ],
+  "mj": [
+    "@pk",
+    "shame, being ridiculed"
+  ],
+  "mk": [
+    [
+      [
+        "bite",
+        "chew",
+        "suck"
+      ],
+      "movement focus",
+      "food focus"
+    ],
+    [
+      [
+        "put in mouth",
+        "swallow",
+        "roll around on palate"
+      ],
+      "movement focus",
+      "food focus"
+    ]
+  ],
+  "mk'": [
+    "@xl",
+    "silicon"
+  ],
+  "mkh": [
+    "@xt'",
+    "beige"
+  ],
+  "mkhw": [
+    "@xt'",
+    "mauve"
+  ],
+  "ml": [
+    "@pr",
+    "foot"
+  ],
+  "mm": [
+    [
+      [
+        "family member",
+        "male family member",
+        "female family member"
+      ],
+      [
+        "parent",
+        "father",
+        "mother"
+      ],
+      [
+        "child",
+        "son",
+        "daughter"
+      ]
+    ],
+    [
+      [
+        "non-sanguine family member",
+        "non-sanguine male family member",
+        "non-sanguine female family member"
+      ],
+      [
+        "step-parent",
+        "step-father",
+        "step-mother"
+      ],
+      [
+        "step-child",
+        "step-son",
+        "step-daughter"
+      ]
+    ]
+  ],
+  "mn": [
+    [
+      [
+        "awe",
+        "humbleness",
+        "cause of awe"
+      ],
+      "process focus",
+      "state focus"
+    ],
+    "worship"
+  ],
+  "mp": [
+    [
+      [
+        "smell",
+        "nose",
+        "imagine smell"
+      ],
+      [
+        "to smell",
+        "nose (organ)",
+        "to imagine a smell"
+      ],
+      [
+        "a whiff of odor",
+        "nose (proboscis)",
+        "imagined odor"
+      ]
+    ],
+    [
+      [
+        "smell (examine)",
+        "odor detection",
+        "create odor"
+      ],
+      [
+        "examine by smelling",
+        "to detect an odor",
+        "to create an odor"
+      ],
+      [
+        "examined smell",
+        "detected odor",
+        "manufactured odor"
+      ]
+    ]
+  ],
+  "mpr": [
+    [
+      [
+        "measurement of chemical amount",
+        "measurement of density",
+        "measurement of catalytic activity"
+      ],
+      "process",
+      "unit"
+    ],
+    [
+      [
+        "measurement of substance concentration",
+        "measurement of energy per amount of substance",
+        "measurement of rate of other density-related phenomena"
+      ],
+      "process",
+      "unit"
+    ]
+  ],
+  "mp'": [
+    [
+      [
+        "pillar",
+        "wall",
+        "floor"
+      ],
+      "shape focus",
+      "function focus"
+    ],
+    [
+      [
+        "buttress",
+        "architectural partition",
+        "roof"
+      ],
+      "shape focus",
+      "function focus"
+    ]
+  ],
+  "mph": [
+    [
+      [
+        "measurement of electric current",
+        "measurement of electrical charge",
+        "measurement of electric potential difference"
+      ],
+      "process",
+      "unit"
+    ],
+    [
+      [
+        "measurement of magnetic flux",
+        "measurement of electrical capacitance",
+        "measurement of electrical inductance"
+      ]
+    ]
+  ],
+  "mpy": [
+    "+qw",
+    "squash"
+  ],
+  "mq": [
+    "@kh",
+    "romantic love relationship"
+  ],
+  "mqhw": [
+    "+qw",
+    "date"
+  ],
+  "mr": [
+    [
+      [
+        "give/take",
+        "indirect give/take",
+        "bring/leave with"
+      ],
+      [
+        "give",
+        "leave something",
+        "bring something"
+      ],
+      [
+        "take",
+        "obtain something",
+        "leave with something"
+      ]
+    ],
+    [
+      [
+        "donate/receive",
+        "bestow/acquire",
+        "deliver/take ownership"
+      ],
+      [
+        "donate",
+        "leave to heir",
+        "bestow"
+      ],
+      [
+        "receive",
+        "inherit",
+        "acquire"
+      ]
+    ]
+  ],
+  "mř": [
+    "@num",
+    "10"
+  ],
+  "ms": [
+    [
+      [
+        "have practical value",
+        "have emotional value",
+        "have financial value"
+      ],
+      "intrinsic focus",
+      "actual value focus"
+    ],
+    [
+      [
+        "cost appraisal",
+        "cost",
+        "rate of payment"
+      ],
+      "quoted cost focus",
+      "actual payment focus"
+    ]
+  ],
+  "msk": [
+    [
+      [
+        "crouched down",
+        "seated",
+        "poised for movement"
+      ],
+      "position focus",
+      "purpose focus"
+    ],
+    [
+      [
+        "fetal position",
+        "leg pose",
+        "arm pose"
+      ]
+    ]
+  ],
+  "mš": [
+    "@gm",
+    "irregular outline"
+  ],
+  "mt": [
+    "@kh",
+    "parent/child"
+  ],
+  "mţ": [
+    "@mx",
+    "autumn"
+  ],
+  "mt'": [
+    [
+      [
+        "land/air animal",
+        "water animal",
+        "amphibian"
+      ],
+      "domesticable",
+      "undomesticable"
+    ],
+    [
+      "domesticated",
+      "pet",
+      "resource"
+    ]
+  ],
+  "mth": [
+    [
+      [
+        "dirt/soil",
+        "mud",
+        "organic ground cover"
+      ],
+      "substance focus",
+      "firmament function focus"
+    ],
+    [
+      [
+        "peat",
+        "dirty/soiled",
+        "mulch/compost"
+      ],
+      "substance focus",
+      "function focus"
+    ]
+  ],
+  "mv": [
+    "@g",
+    "long-axis center"
+  ],
+  "mvy": [
+    "@sk",
+    "peacock"
+  ],
+  "mw": [
+    "@kv",
+    "tautness"
+  ],
+  "mx": [
+    "@mx",
+    "season"
+  ],
+  "mxh": [
+    [
+      [
+        "ground",
+        "table-like",
+        "shelf-like"
+      ],
+      "shape focus",
+      "function focus"
+    ],
+    [
+      [
+        "floor",
+        "table",
+        "shelf"
+      ],
+      "shape focus",
+      "function focus"
+    ]
+  ],
+  "mxz": [
+    "+qw",
+    "cucumber"
+  ],
+  "my": [
+    [
+      [
+        "thank for favor",
+        "thank for rescue",
+        "ironically thank"
+      ],
+      "intent-to-convey focus",
+      "display focus"
+    ],
+    [
+      [
+        "praise",
+        "gratefulness",
+        "feel beholden/obliged"
+      ],
+      "intent-to-convey focus",
+      "display focus"
+    ]
+  ],
+  "mz": [
+    [
+      [
+        "memory/recall",
+        "retain",
+        "memorize"
+      ],
+      [
+        "a memory",
+        "a retained memory",
+        "thing memorized"
+      ],
+      [
+        "faculty of memory",
+        "process of retention",
+        "process of memorization"
+      ]
+    ],
+    [
+      [
+        "vestige",
+        "memorial",
+        "recording"
+      ],
+      "thing remembered",
+      "thing remembered by"
+    ]
+  ],
+  "mž": [
+    [
+      [
+        "biological sex",
+        "neutral sex",
+        "androgynous"
+      ],
+      [
+        "male sex",
+        "sterile",
+        "androgynous sex"
+      ],
+      [
+        "female sex",
+        "no biological sex",
+        "hermaphrodite"
+      ]
+    ],
+    [
+      [
+        "gender",
+        "agender",
+        "sexual orientation"
+      ],
+      [
+        "male gender",
+        "celibate",
+        "psychological sexual orientation"
+      ],
+      [
+        "female gender",
+        "asexual",
+        "manifested sexual orientation"
+      ]
+    ]
+  ],
+  "n": [
+    "@g",
+    "exterior"
+  ],
+  "ň": [
+    "@num",
+    "100"
+  ],
+  "nç": [
+    "+ph",
+    "cherry"
+  ],
+  "nc'": [
+    "+ph",
+    "banana"
+  ],
+  "nč'": [
+    "+ph",
+    "coconut"
+  ],
+  "nch": [
+    "+ph",
+    "fig"
+  ],
+  "nčh": [
+    "+ph",
+    "tangerine"
+  ],
+  "nchw": [
+    "@sk",
+    "duck"
+  ],
+  "nçw": [
+    "@sk",
+    "swan"
+  ],
+  "nd": [
+    [
+      [
+        "question and answer",
+        "query/investigate + discovery",
+        "ponder/introspect + conclusion"
+      ],
+      [
+        "question",
+        "query",
+        "ponder/introspect"
+      ],
+      [
+        "answer",
+        "answer to query",
+        "conclusion after introspection"
+      ]
+    ],
+    [
+      [
+        "inquiry and answer",
+        "research + findings",
+        "analyze + results"
+      ],
+      [
+        "inquire",
+        "research",
+        "analyze"
+      ],
+      [
+        "answer to inquiry",
+        "findings of research",
+        "results of analysis"
+      ]
+    ]
+  ],
+  "ndh": [
+    "+ph",
+    "pineapple"
+  ],
+  "ndr": [
+    "@sk",
+    "fox"
+  ],
+  "ndw": [
+    "@sk",
+    "moose"
+  ],
+  "nl": [
+    "@kv",
+    "hardness"
+  ],
+  "nļ": [
+    "+ph",
+    "plum"
+  ],
+  "nm": [
+    "+ph",
+    "olive"
+  ],
+  "nn": [
+    "+ph",
+    "orange"
+  ],
+  "nr": [
+    "@gm",
+    "ellipse"
+  ],
+  "nř": [
+    "@fţ",
+    "spider"
+  ],
+  "ns": [
+    "@num",
+    "7"
+  ],
+  "nš": [
+    "@g",
+    "rear"
+  ],
+  "nst": [
+    [
+      [
+        "recline",
+        "recumbent position",
+        "lay flat"
+      ],
+      "position focus",
+      "thing focus"
+    ],
+    [
+      [
+        "horizontal",
+        "maximum repose position",
+        "flattened"
+      ],
+      "position focus",
+      "thing focus"
+    ]
+  ],
+  "nsw": [
+    "@sk",
+    "chicken"
+  ],
+  "nt": [
+    [
+      [
+        "hear + sound heard",
+        "ear",
+        "imagine sound + sound imagined"
+      ],
+      [
+        "hear",
+        "ear (organ)",
+        "imagine sound"
+      ],
+      [
+        "sound heard",
+        "ear (body part)",
+        "sound imagined"
+      ]
+    ],
+    [
+      [
+        "listen + sound listened to",
+        "aural instrument + sound detected",
+        "make sound + sound made"
+      ],
+      [
+        "listen",
+        "aural instrument",
+        "make sound"
+      ],
+      [
+        "sound listened to",
+        "sound detected",
+        "sound made"
+      ]
+    ]
+  ],
+  "ntr": [
+    [
+      [
+        "be free",
+        "decide own action",
+        "exempt"
+      ],
+      "state focus",
+      "effect focus"
+    ],
+    [
+      [
+        "have autonomy",
+        "not need permission",
+        "be unaffiliated"
+      ],
+      "state focus",
+      "effect focus"
+    ]
+  ],
+  "nţ": [
+    "@kh",
+    "loving friendship"
+  ],
+  "nţw": [
+    [
+      [
+        "degree of general well-being",
+        "degree of internal bodily ache",
+        "degree of subjective abnormal internal bodily sensation"
+      ],
+      "effect focus",
+      "source focus"
+    ],
+    [
+      [
+        "degree of vigor",
+        "degree of bodily involuntary movement",
+        "degree of hunger"
+      ],
+      "effect focus",
+      "source focus"
+    ]
+  ],
+  "nt'": [
+    "+ph",
+    "lemon"
+  ],
+  "nth": [
+    "+ph",
+    "pear"
+  ],
+  "nv": [
+    "+ph",
+    "peach"
+  ],
+  "nw": [
+    "+ph",
+    "apple"
+  ],
+  "ny": [
+    [
+      [
+        "choose/choice",
+        "prefer(ence)",
+        "settle for"
+      ],
+      "act focus",
+      "choice made focus"
+    ],
+    [
+      [
+        "select/pick",
+        "alternative/option",
+        "vote"
+      ],
+      "act focus",
+      "choice made focus"
+    ]
+  ],
+  "nz": [
+    "@kh",
+    "marriage"
+  ],
+  "nž": [
+    "+ph",
+    "lime"
+  ],
+  "ňc": [
+    "@fţ",
+    "tick"
+  ],
+  "ňč": [
+    [
+      [
+        "member of godparent–godchild relationship",
+        "male member of godparent–godchild relationship",
+        "female member of godparent–godchild relationship"
+      ],
+      [
+        "godparent",
+        "godfather",
+        "godmother"
+      ],
+      [
+        "godchild",
+        "godson",
+        "goddaughter"
+      ]
+    ],
+    [
+      [
+        "adoptive family member",
+        "male adoptive family member",
+        "female adoptive family member"
+      ],
+      [
+        "adoptive parent",
+        "adoptive father",
+        "adoptive mother"
+      ],
+      [
+        "adoptive child",
+        "adoptive son",
+        "adoptive daughter"
+      ]
+    ]
+  ],
+  "ňç": [
+    "@fţ",
+    "waterbug"
+  ],
+  "ňčh": [
+    [
+      [
+        "measurement of electrical resistance",
+        "measurement of electrical conductance",
+        "measurement of magnetomotive force"
+      ],
+      "process",
+      "unit"
+    ],
+    [
+      [
+        "measurement of magnetic flux density",
+        "measurement of ratio between electromagnetic value",
+        "measurement of rate of electromagnetic phenomena"
+      ],
+      "process",
+      "unit"
+    ]
+  ],
+  "ňčhw": [
+    "+qw",
+    "bamboo"
+  ],
+  "ňf": [
+    "@gm",
+    "sliver-moon shaped"
+  ],
+  "ňg": [
+    [
+      [
+        "short atmospheric phenomenon",
+        "flash of lightning + peal of thunder",
+        "cloud"
+      ],
+      [
+        "physical short atmospheric phenomenon",
+        "flash of lightning",
+        "physical cloud"
+      ],
+      [
+        "effect of short atmospheric phenomenon",
+        "peal of thunder",
+        "effect of cloud"
+      ]
+    ],
+    [
+      [
+        "low/high pressure zone",
+        "cold/warm air front",
+        "eye of a storm"
+      ],
+      [
+        "low pressure zone",
+        "cold air front",
+        "physical eye of a storm"
+      ],
+      [
+        "high pressure zone",
+        "warm air front",
+        "calm in the eye of a storm"
+      ]
+    ]
+  ],
+  "ňgr": [
+    "@sk",
+    "baboon"
+  ],
+  "ňgw": [
+    "@sk",
+    "chimpanzee"
+  ],
+  "ňgy": [
+    [
+      [
+        "sticky substance",
+        "goo/slime",
+        "sap/resin"
+      ],
+      "organic",
+      "synthetic"
+    ],
+    [
+      [
+        "adhesive substance",
+        "glue",
+        "cement/mortar"
+      ],
+      "organic",
+      "synthetic"
+    ]
+  ],
+  "ňk": [
+    [
+      [
+        "tower",
+        "dome",
+        "spire"
+      ],
+      "physical focus",
+      "function focus"
+    ],
+    [
+      [
+        "window opening",
+        "doorway",
+        "balcony"
+      ],
+      "physical focus",
+      "function focus"
+    ]
+  ],
+  "ňkh": [
+    [
+      [
+        "whole number",
+        "multifaceted",
+        "numerical series"
+      ],
+      [
+        "multiply",
+        "multiple instances",
+        "exponential/logarithmic progression"
+      ],
+      [
+        "divide",
+        "non-unified",
+        "negative exponential/logarithmic progression"
+      ]
+    ],
+    "formal"
+  ],
+  "ňkr": [
+    "@sk",
+    "lion"
+  ],
+  "ňkw": [
+    "@sk",
+    "cow"
+  ],
+  "ňky": [
+    [
+      [
+        "(anti-)fermion",
+        "(anti-)quark",
+        "(anti-)lepton"
+      ],
+      [
+        "fermion",
+        "quark",
+        "lepton"
+      ],
+      [
+        "anti-fermion",
+        "anti-quark",
+        "anti-lepton"
+      ]
+    ],
+    [
+      [
+        "boson + fundamental force",
+        "string theory string + vibration",
+        "acceleron + dark energy"
+      ],
+      [
+        "boson",
+        "string theory string",
+        "acceleron"
+      ],
+      [
+        "fundamental force of boson",
+        "vibration in string theory",
+        "dark energy"
+      ]
+    ]
+  ],
+  "ňn": [
+    "@fţ",
+    "ant"
+  ],
+  "ňqh": [
+    "@fţ",
+    "cockroach"
+  ],
+  "ňř": [
+    "@fţ",
+    "termite"
+  ],
+  "ňs": [
+    "@gm",
+    "rhombus"
+  ],
+  "ňsp": [
+    [
+      [
+        "apostasy",
+        "heresy",
+        "iconoclasm"
+      ],
+      "state focus",
+      "consequence focus"
+    ],
+    "self-aware"
+  ],
+  "ňšw": [
+    "@sk",
+    "gorilla"
+  ],
+  "ňk'": [
+    [
+      [
+        "get out of the way",
+        "steer clear of",
+        "evade via stealth"
+      ],
+      "act focus",
+      "reason focus"
+    ],
+    [
+      [
+        "flee from",
+        "refrain from",
+        "shirk"
+      ],
+      "act focus",
+      "reason focus"
+    ]
+  ],
+  "ňsk": [
+    [
+      [
+        "degree of brute bodily strength",
+        "degree of resistance to pain",
+        "degree of resiliency"
+      ],
+      "faculty focus",
+      "effect focus"
+    ],
+    [
+      [
+        "degree of stamina",
+        "degree of immunological response",
+        "degree of recuperative power"
+      ],
+      "faculty focus",
+      "effect focus"
+    ]
+  ],
+  "ňth": [
+    "@mx",
+    "tropical rainy season"
+  ],
+  "ňv": [
+    "@fţ",
+    "generic crawling bug"
+  ],
+  "ňw": [
+    "@kv",
+    "flexibility"
+  ],
+  "ňx": [
+    "@kh",
+    "youthful romance"
+  ],
+  "ňxh": [
+    "@mx",
+    "spring"
+  ],
+  "ňz": [
+    "@xl",
+    "oil"
+  ],
+  "ňž": [
+    "@fţ",
+    "beetle"
+  ],
+  "p": [
+    [
+      [
+        "carrier root (animate)",
+        "carrier root (inanimate)",
+        "carrier root (abstract)"
+      ],
+      [
+        "carrier root (human)",
+        "carrier root (tangible entity)",
+        "carrier root (place name)"
+      ],
+      [
+        "carrier root (non-human animate)",
+        "carrier root (intangible entity)",
+        "carrier root (abstract concept)"
+      ]
+    ],
+    "formal"
+  ],
+  "p'": [
+    [
+      [
+        "search",
+        "look for something lost",
+        "inspect"
+      ],
+      "act focus",
+      "thing sought focus"
+    ],
+    [
+      [
+        "hunt",
+        "track down",
+        "quest"
+      ],
+      "act focus",
+      "thing sought focus"
+    ]
+  ],
+  "pc": [
+    [
+      [
+        "marriage",
+        "infidelity",
+        "betrothal"
+      ],
+      [
+        "legal marriage",
+        "act of infidelity",
+        "legal betrothal"
+      ],
+      [
+        "emotional marriage",
+        "breaking emotional marriage bond",
+        "emotional betrothal"
+      ]
+    ],
+    [
+      [
+        "spouse",
+        "paramour",
+        "fiancé(e)"
+      ],
+      [
+        "husband",
+        "male paramour",
+        "fiancé"
+      ],
+      [
+        "wife",
+        "female paramour",
+        "fiancée"
+      ]
+    ]
+  ],
+  "pč": [
+    "@pk",
+    "repugnance"
+  ],
+  "pç": [
+    "+k",
+    "3D"
+  ],
+  "pçk": [
+    [
+      [
+        "capacity for",
+        "attribute/quality",
+        "property"
+      ],
+      "abstract",
+      "manifest"
+    ],
+    [
+      [
+        "aptitude for",
+        "learned skill",
+        "virtue"
+      ],
+      "abstract",
+      "manifest"
+    ]
+  ],
+  "pc'": [
+    "@pk",
+    "embarassment at inability"
+  ],
+  "pč'": [
+    "@pk",
+    "disappointment in own actions"
+  ],
+  "pch": [
+    "@pk",
+    "flusteredness"
+  ],
+  "pčh": [
+    "@pk",
+    "frustration"
+  ],
+  "pčhw": [
+    "+qw",
+    "cork"
+  ],
+  "pçt": [
+    "+qw",
+    "cotton"
+  ],
+  "pçw": [
+    "+qw",
+    "melon"
+  ],
+  "pf": [
+    "@pk",
+    "depression"
+  ],
+  "pg": [
+    "@pk",
+    "swooning"
+  ],
+  "ph": [
+    [
+      [
+        "tree",
+        "leaf",
+        "bark"
+      ],
+      [
+        "wood",
+        "root",
+        "branch"
+      ],
+      [
+        "seed/fruit/nut",
+        "flower/blossom",
+        "sap"
+      ]
+    ],
+    [
+      [
+        "wood product",
+        "leaf product",
+        "bark product"
+      ],
+      [
+        "wood as resource",
+        "root as resource",
+        "branch as resource"
+      ],
+      [
+        "seed/fruit as resource",
+        "flower as resource",
+        "sap product"
+      ]
+    ]
+  ],
+  "phw": [
+    "@xt'",
+    "pink"
+  ],
+  "pj": [
+    "@pk",
+    "disappointment in another"
+  ],
+  "pk": "experience/undergo a state or feeling",
+  "pkl": [
+    [
+      [
+        "measurement of statistical probability",
+        "measurement of content of information",
+        "measurement of data transmission speed"
+      ],
+      "process",
+      "unit"
+    ],
+    [
+      [
+        "measurement of sound intensity",
+        "measurement of acoustic absorption",
+        "measurement of miscellaneous phenomenon"
+      ],
+      "process",
+      "unit"
+    ]
+  ],
+  "pkw": [
+    "@pk",
+    "on-edgeness at threat"
+  ],
+  "pky": [
+    [
+      [
+        "edible cereal grain",
+        "refined grain",
+        "parent plant of cereal grain"
+      ],
+      "object",
+      "resource"
+    ],
+    [
+      [
+        "flour",
+        "bread",
+        "other cereal grain derived food"
+      ],
+      "object",
+      "resource"
+    ]
+  ],
+  "pk'": [
+    "@pk",
+    "annoyance at self"
+  ],
+  "pkh": [
+    "@pk",
+    "humiliation"
+  ],
+  "pl": [
+    "@pk",
+    "regret"
+  ],
+  "pļ": [
+    "@gv",
+    "shirt"
+  ],
+  "plw": [
+    "@xt'",
+    "burgundy"
+  ],
+  "pm": [
+    "@pk",
+    "agitation"
+  ],
+  "pn": [
+    "@pk",
+    "despair"
+  ],
+  "pny": [
+    "+qw",
+    "grape"
+  ],
+  "pp": [
+    "@pk",
+    "hysteria"
+  ],
+  "pp'": [
+    "@kh",
+    "sexual partnership"
+  ],
+  "pph": [
+    "@mx",
+    "winter"
+  ],
+  "pq": [
+    "@pk",
+    "worry"
+  ],
+  "pq'": [
+    "@pk",
+    "shock from bad news"
+  ],
+  "pqh": [
+    "@pk",
+    "faux pas embarrassment"
+  ],
+  "pr": [
+    [
+      [
+        "leg (entity)",
+        "leg (support)",
+        "leg (limb)"
+      ],
+      [
+        "leg (physical body part)",
+        "leg (balance)",
+        "leg (extension)"
+      ],
+      [
+        "leg (manipulating)",
+        "leg (support function)",
+        "leg (ambulator)"
+      ]
+    ],
+    "non-animal"
+  ],
+  "př": [
+    "@xt'",
+    "blue"
+  ],
+  "ps": [
+    "@pk",
+    "sorrow"
+  ],
+  "psb": [
+    "@xl",
+    "aluminum"
+  ],
+  "psf": [
+    "@f",
+    "intertwined"
+  ],
+  "psl": [
+    "@f",
+    "behind-above"
+  ],
+  "psk": [
+    "@f",
+    "left-ahead-below"
+  ],
+  "psp'": [
+    "@xl",
+    "selenium"
+  ],
+  "psq": [
+    [
+      [
+        "self-righteous",
+        "holier-than-thou",
+        "hypocritical"
+      ],
+      "state focus",
+      "consequence focus"
+    ],
+    "self-aware"
+  ],
+  "psq'": [
+    "@xl",
+    "carbon"
+  ],
+  "psr": [
+    "@f",
+    "ahead-below"
+  ],
+  "pst": [
+    "@f",
+    "right-ahead-below"
+  ],
+  "pstw": "100 million",
+  "psw": [
+    "@f",
+    "ahead-above"
+  ],
+  "psy": [
+    "@xt'",
+    "magenta"
+  ],
+  "pš": "happen/occur(ence)/manifest/event",
+  "pšk": [
+    "@f",
+    "left-behind-below"
+  ],
+  "pškh": [
+    "@xl",
+    "titanium"
+  ],
+  "pšq'": [
+    "@xl",
+    "zirconium"
+  ],
+  "pšqh": [
+    "@xl",
+    "calcium"
+  ],
+  "pšt": [
+    "@f",
+    "right-behind-below"
+  ],
+  "pt": [
+    "@pk",
+    "offended"
+  ],
+  "pţ": [
+    [
+      [
+        "2D angle",
+        "3D vertex",
+        "angle-based constraint"
+      ],
+      [
+        "interior 2D angle",
+        "interior 3D vertex",
+        "corner as constraint"
+      ],
+      [
+        "exterior 2D angle",
+        "exterior 3D vertex",
+        "corner as opportunity"
+      ]
+    ],
+    "formal"
+  ],
+  "pt'": [
+    "@pk",
+    "angst"
+  ],
+  "pth": [
+    "@pk",
+    "stoicism"
+  ],
+  "pw": [
+    "@pk",
+    "greed"
+  ],
+  "px": [
+    "@num",
+    "4"
+  ],
+  "pxh": [
+    "@pk",
+    "stress"
+  ],
+  "py": [
+    "@pk",
+    "bittersweet longing"
+  ],
+  "q": [
+    [
+      [
+        "person",
+        "human",
+        "animal"
+      ],
+      "male",
+      "female"
+    ],
+    [
+      [
+        "authorized person",
+        "authorized human",
+        "pet or zoo animal"
+      ],
+      "male",
+      "female"
+    ]
+  ],
+  "qc": [
+    "@xl",
+    "spice"
+  ],
+  "qč": [
+    [
+      [
+        "cough",
+        "sneeze",
+        "hiccup"
+      ],
+      "act",
+      "sound"
+    ],
+    "volitional"
+  ],
+  "qch": [
+    "@xl",
+    "chalk"
+  ],
+  "qf": [
+    "@gv",
+    "footwear"
+  ],
+  "qfr": [
+    "@xl",
+    "radium"
+  ],
+  "qfř": [
+    "@xl",
+    "molybdenum"
+  ],
+  "qfw": [
+    "@xl",
+    "bismuth"
+  ],
+  "qh": [
+    [
+      [
+        "transcendent soul",
+        "universal oneness",
+        "quest for ultimate purpose"
+      ],
+      "ontological",
+      "belief therein"
+    ],
+    [
+      [
+        "religious belief",
+        "religious zeal",
+        "religious quest for redemption"
+      ],
+      "ontological",
+      "belief therein"
+    ]
+  ],
+  "qj": [
+    [
+      [
+        "irrational in outlook on life",
+        "hysterical in outlook on life",
+        "paranoid in outlook on life"
+      ],
+      "state focus",
+      "consequence focus"
+    ],
+    "self-aware"
+  ],
+  "ql": [
+    [
+      [
+        "(drop of) liquid",
+        "(drop of) derived liquid",
+        "source of liquid"
+      ],
+      [
+        "drop of liquid",
+        "drop of derived liquid",
+        "natural source of liquid"
+      ],
+      [
+        "liquid itself",
+        "derived liquid",
+        "artificial source of liquid"
+      ]
+    ],
+    [
+      [
+        "substance in abnormal non-liquid state",
+        "object made of liquid + function",
+        "state of substance being liquid or not"
+      ],
+      [
+        "frozen liquid",
+        "object made of liquid",
+        "liquid state"
+      ],
+      [
+        "vapor",
+        "function of object made of liquid",
+        "viscous state"
+      ]
+    ]
+  ],
+  "qly": [
+    "@xl",
+    "manganese"
+  ],
+  "qm": [
+    [
+      [
+        "heart",
+        "vascular component",
+        "blood"
+      ],
+      "physical",
+      "function"
+    ],
+    [
+      [
+        "lung",
+        "respiratory system component",
+        "oxygen"
+      ],
+      "physical",
+      "function"
+    ]
+  ],
+  "qn": [
+    "@xl",
+    "honey"
+  ],
+  "qp": [
+    [
+      [
+        "aware of surroundings",
+        "mindful",
+        "wary/cautious"
+      ],
+      "state focus",
+      "consequence focus"
+    ],
+    "self-aware"
+  ],
+  "qq": [
+    "@g",
+    "interior"
+  ],
+  "qr": [
+    [
+      [
+        "act/reason of jubilation",
+        "act/reason of celebration",
+        "(reason for) joyful/celebratory rite"
+      ],
+      [
+        "act of jubilation",
+        "act of celebration",
+        "joyful/celebratory rite"
+      ],
+      [
+        "reason for act of jubilation",
+        "reason for act of celebration",
+        "reason for joyful/celebratory rite"
+      ]
+    ],
+    [
+      [
+        "act/reason of solemn memorial",
+        "act/reason of solemn recognition",
+        "(reason for) solemn ceremonial rite"
+      ],
+      [
+        "act of solemn memorial",
+        "act of solemn recognition",
+        "solemn ceremonial rite"
+      ],
+      [
+        "reason for act of solemn memorial",
+        "reason for act of solemn recognition",
+        "reason for solemn ceremonial rite"
+      ]
+    ]
+  ],
+  "qt": [
+    [
+      [
+        "degree of sensual pleasure",
+        "degree of emotional pleasure",
+        "degree of physical satisfaction"
+      ],
+      "state focus",
+      "cause focus"
+    ],
+    [
+      [
+        "degree of spiritual pleasure",
+        "degree of happiness",
+        "degree of emotional fulfillment"
+      ],
+      "state focus",
+      "cause focus"
+    ]
+  ],
+  "qth": [
+    "@kh",
+    "teacher/student"
+  ],
+  "qt'": [
+    [
+      [
+        "free from harm",
+        "safekeeping",
+        "shielding"
+      ],
+      "feeling focus",
+      "means focus"
+    ],
+    [
+      [
+        "invulnerable",
+        "secure(d)",
+        "defend"
+      ],
+      "feeling focus",
+      "means focus"
+    ]
+  ],
+  "qţ": [
+    [
+      [
+        "sibling",
+        "brother",
+        "sister"
+      ],
+      [
+        "half-sibling (shared mother)",
+        "half-brother (shared mother)",
+        "half-sister (shared mother)"
+      ],
+      [
+        "half-sibling (shared father)",
+        "half-brother (shared father)",
+        "half-sister (shared father)"
+      ]
+    ],
+    [
+      [
+        "step-sibling",
+        "step-brother",
+        "step-sister"
+      ],
+      [
+        "step-sibling through mother",
+        "step-brother through mother",
+        "step-sister through mother"
+      ],
+      [
+        "step-sibling through father",
+        "step-brother through father",
+        "step-sister through father"
+      ]
+    ]
+  ],
+  "qţl": [
+    "@xl",
+    "lithium"
+  ],
+  "qţř": [
+    "@xl",
+    "germanium"
+  ],
+  "qv": [
+    "@kv",
+    "resilience"
+  ],
+  "qw": [
+    [
+      [
+        "food plant",
+        "vegetable",
+        "fruit"
+      ],
+      "plant itself",
+      "edible"
+    ],
+    [
+      [
+        "plant dish",
+        "vegetable dish",
+        "fruit dish"
+      ],
+      "itself",
+      "ingestion thereof"
+    ]
+  ],
+  "q'": [
+    [
+      [
+        "position inside",
+        "position inside area",
+        "position inside volume"
+      ],
+      "interior position focus",
+      "surface position focus"
+    ],
+    [
+      [
+        "interior space",
+        "interior surface",
+        "interior volume"
+      ],
+      "interior position focus",
+      "surface position focus"
+    ]
+  ],
+  "r": [
+    [
+      [
+        "think/thought",
+        "consider(ation)",
+        "propose/proposition"
+      ],
+      [
+        "to think",
+        "to consider",
+        "to propose"
+      ],
+      [
+        "thought",
+        "idea considered",
+        "proposition"
+      ]
+    ],
+    [
+      [
+        "reason(ing)",
+        "analyze/analysis",
+        "to conceptualize/concept"
+      ],
+      [
+        "to reason",
+        "to analyze",
+        "to conceptualize"
+      ],
+      [
+        "object of reasoning",
+        "object of analysis",
+        "concept"
+      ]
+    ]
+  ],
+  "ř": [
+    "possession/ownership",
+    [
+      [
+        "have (physical)",
+        "have (affective)",
+        "have (intrinsic)"
+      ],
+      "state",
+      [
+        "thing possessed (physical)",
+        "thing possessed (affective)",
+        "thing possessed (intrinsic)"
+      ]
+    ],
+    [
+      [
+        "own (legal, immediate possession)",
+        "own (legal, non-immediate possession)",
+        "own (legal, quasi-inalienable)"
+      ],
+      "state",
+      [
+        "thing owned (legal, immediate possession)",
+        "thing owned (legal, non-immediate possession)",
+        "thing owned (legal, quasi-inalienable)"
+      ]
+    ]
+  ],
+  "rb": [
+    "+k",
+    "spiral vertically"
+  ],
+  "rc": [
+    "+k",
+    "gravity arc"
+  ],
+  "rc'": [
+    [
+      [
+        "bluff/mislead",
+        "trick/delude",
+        "disguise"
+      ],
+      "act focus",
+      "effect focus"
+    ],
+    [
+      [
+        "deceive",
+        "commit fraud",
+        "conterfeiting"
+      ],
+      "act focus",
+      "effect focus"
+    ]
+  ],
+  "rč": [
+    "+k",
+    "curve"
+  ],
+  "rç": [
+    "+k",
+    "switch back, veer"
+  ],
+  "rch": [
+    [
+      [
+        "civil",
+        "conciliatory",
+        "peaceable"
+      ],
+      "state focus",
+      "consequence focus"
+    ],
+    "self-aware"
+  ],
+  "rčp'": [
+    "@xl",
+    "cadminum"
+  ],
+  "rčt'": [
+    "@xl",
+    "boron"
+  ],
+  "rd": [
+    "+k",
+    "spiral motion"
+  ],
+  "rdh": [
+    "@gv",
+    "belt"
+  ],
+  "rdhř": [
+    "@xl",
+    "magnesium"
+  ],
+  "rdhv": [
+    "@xl",
+    "cobalt"
+  ],
+  "rdhw": [
+    "@sk",
+    "gull"
+  ],
+  "rf": [
+    "+k",
+    "corkscrew"
+  ],
+  "rfq": [
+    "@sx",
+    "to griddle",
+    "griddled food",
+    "griddle stove",
+    "griddle"
+  ],
+  "rfž": [
+    "@xl",
+    "antimony"
+  ],
+  "rg": [
+    "+k",
+    "horizontal spiral"
+  ],
+  "rgy": [
+    "@xl",
+    "chromium"
+  ],
+  "rgzd": [
+    "@sk",
+    "iguana"
+  ],
+  "rgzw": [
+    "@sk",
+    "crocodile"
+  ],
+  "rj": [
+    "@xl",
+    "paint"
+  ],
+  "rk": [
+    "+k",
+    "horizontal planar"
+  ],
+  "rk'": [
+    [
+      [
+        "origin",
+        "beginning point",
+        "cause"
+      ],
+      "physical focus",
+      "manifestation focus"
+    ],
+    [
+      [
+        "principle",
+        "fundamental reason",
+        "axiom"
+      ],
+      "focus on simplicity",
+      "focus on irreducability"
+    ]
+  ],
+  "rkh": [
+    [
+      [
+        "measurement of planar area",
+        "measurement of 3D volume",
+        "measurement of hyperdimensional volume"
+      ],
+      "process",
+      "unit"
+    ],
+    [
+      [
+        "measurement of speed",
+        "measurement of acceleration",
+        "measurement of jerk/etc."
+      ],
+      "process",
+      "unit"
+    ]
+  ],
+  "rkr": [
+    "@sk",
+    "tiger"
+  ],
+  "rl": [
+    "+k",
+    "relative Y-axis"
+  ],
+  "rļ": [
+    "+k",
+    "corkscrew spiral"
+  ],
+  "rm": [
+    "+k",
+    "relative X-axis"
+  ],
+  "rmkh": [
+    "@xl",
+    "palladium"
+  ],
+  "rmq'": [
+    "@xl",
+    "zinc"
+  ],
+  "rmst": [
+    "@sk",
+    "sea lion"
+  ],
+  "rmxh": [
+    "@xl",
+    "beryllium"
+  ],
+  "rn": [
+    "+k",
+    "circular"
+  ],
+  "rnr": [
+    "@xl",
+    "arsenic"
+  ],
+  "rntr": [
+    "@sk",
+    "seal"
+  ],
+  "rp": [
+    "+k",
+    "vertical planar"
+  ],
+  "rp'": [
+    [
+      [
+        "body part",
+        "bodily organ",
+        "bone"
+      ],
+      "physical",
+      "function"
+    ],
+    [
+      [
+        "flesh/sinew",
+        "gland",
+        "bodily fluid/secretion"
+      ],
+      "physical",
+      "function"
+    ]
+  ],
+  "rpc'": [
+    "@xl",
+    "vanadium"
+  ],
+  "rpč'": [
+    "@xl",
+    "tungsten"
+  ],
+  "rph": [
+    "@mx",
+    "dry season"
+  ],
+  "rpţ": [
+    "@sx",
+    "sauté",
+    "sautéd food",
+    "stove for sautéing",
+    "pan for sautéing"
+  ],
+  "rpth": [
+    "@sx",
+    "simmer",
+    "simmered food",
+    "stove for simmering",
+    "pot for simmering"
+  ],
+  "rpv": [
+    "@sx",
+    "sun-dry",
+    "sun-dried food",
+    "equipment for sun-drying",
+    "equipment for sun-drying"
+  ],
+  "rpx": [
+    "@sx",
+    "slow-cook",
+    "slow-cooked food",
+    "slow-cooker",
+    "slow-cooker crock"
+  ],
+  "rq": [
+    "@xl",
+    "silver"
+  ],
+  "rq'": [
+    "@xl",
+    "mineral"
+  ],
+  "rqhw": [
+    "@sk",
+    "camel"
+  ],
+  "rqw": [
+    "@pk",
+    "anxiety"
+  ],
+  "rr": [
+    "@sk",
+    "cat"
+  ],
+  "rs": [
+    "+k",
+    "horizontal circle"
+  ],
+  "rš": [
+    "+k",
+    "vertical circle"
+  ],
+  "rsč": [
+    "+ph",
+    "maple"
+  ],
+  "ršč": [
+    "+ph",
+    "elm"
+  ],
+  "rsf": [
+    "+ph",
+    "ash"
+  ],
+  "ršf": [
+    "+ph",
+    "poplar"
+  ],
+  "rsk": [
+    "+ph",
+    "cypress"
+  ],
+  "ršk": [
+    "+ph",
+    "alder"
+  ],
+  "rsl": [
+    "+ph",
+    "beech"
+  ],
+  "ršl": [
+    "+ph",
+    "yew"
+  ],
+  "rsm": [
+    "+ph",
+    "mahogany"
+  ],
+  "ršm": [
+    "+ph",
+    "almond"
+  ],
+  "rsn": [
+    "+ph",
+    "flax"
+  ],
+  "ršn": [
+    "+ph",
+    "chestnut"
+  ],
+  "rsp": [
+    "+ph",
+    "eucalyptus"
+  ],
+  "ršp": [
+    "+ph",
+    "spruce"
+  ],
+  "rsph": [
+    "@sx",
+    "to barbecue",
+    "barbecued food",
+    "barbecue grill",
+    "barbecue grill surface"
+  ],
+  "rsq": [
+    "+ph",
+    "magnolia"
+  ],
+  "ršq": [
+    "@sx",
+    "broil",
+    "broiled food",
+    "broiler",
+    "broiler surface"
+  ],
+  "rsqh": [
+    "@xl",
+    "nickel"
+  ],
+  "ršqh": [
+    "@sx",
+    "to stew",
+    "a stew",
+    "stove for stewing",
+    "pot for stewing"
+  ],
+  "rst": [
+    "+ph",
+    "redwood"
+  ],
+  "rst'": [
+    "@sx",
+    "flash-fry",
+    "flash-fried food",
+    "deep fryer",
+    "deep fryer basket"
+  ],
+  "ršt": [
+    "@sx",
+    "parboil",
+    "parboiled food",
+    "stove for parboiling",
+    "pot for parboiling"
+  ],
+  "ršţ": [
+    "@sx",
+    "poach",
+    "poached food",
+    "stove for poaching",
+    "pot for poaching"
+  ],
+  "ršt'": [
+    "@sx",
+    "to grill",
+    "grilled food",
+    "a grill",
+    "grill surface"
+  ],
+  "ršth": [
+    "@sx",
+    "steam-cook",
+    "steam-cooked food",
+    "steam cooker",
+    "steam cooker pot"
+  ],
+  "rstr": [
+    "@sk",
+    "gazelle"
+  ],
+  "rsv": [
+    "+ph",
+    "larch"
+  ],
+  "ršv": [
+    "@sx",
+    "to toast",
+    "toasted food",
+    "toaster",
+    "inside of toaster?"
+  ],
+  "rsx": [
+    "@sx",
+    "pressure-cook",
+    "pressure-cooked food",
+    "pressure cooker",
+    "pressure cooker pot"
+  ],
+  "rt": [
+    "+k",
+    "around edge"
+  ],
+  "rţ": [
+    "+k",
+    "around edge (inside)"
+  ],
+  "rt'": [
+    "@mx",
+    "summer"
+  ],
+  "rth": [
+    [
+      [
+        "be OK with",
+        "consent to",
+        "agree to"
+      ],
+      "process focus",
+      "subject focus"
+    ],
+    [
+      [
+        "permit",
+        "formally recognize",
+        "approve/endorse"
+      ],
+      "process focus",
+      "subject focus"
+    ]
+  ],
+  "rthw": [
+    "@xl",
+    "iridium"
+  ],
+  "rtk": [
+    "@sx",
+    "sear",
+    "seared food",
+    "stove for searing",
+    "pan for searing"
+  ],
+  "rţk": [
+    "+ph",
+    "birch"
+  ],
+  "rtļ": [
+    "@sk",
+    "orangutan"
+  ],
+  "rţl": [
+    "@sk",
+    "toad"
+  ],
+  "rţm": [
+    "+ph",
+    "cedar"
+  ],
+  "rtn": [
+    "@sx",
+    "brew",
+    "brewed ale",
+    "brewing equipment",
+    "brewing equipment"
+  ],
+  "rţn": [
+    "+ph",
+    "oak"
+  ],
+  "rtp": [
+    "@sx",
+    "to smoke (food)",
+    "smoked food",
+    "food smoker",
+    "food smoker support"
+  ],
+  "rţq": [
+    "+ph",
+    "pine"
+  ],
+  "rţq'": [
+    "@xl",
+    "gallium"
+  ],
+  "rţt'": [
+    "@xl",
+    "phosphorus"
+  ],
+  "rţv": [
+    "+ph",
+    "palm"
+  ],
+  "rtw": [
+    "@sk",
+    "horse"
+  ],
+  "rţw": [
+    "+ph",
+    "walnut"
+  ],
+  "rv": [
+    [
+      [
+        "pregnancy",
+        "morning sickness",
+        "contraction during labor"
+      ],
+      "state",
+      "effect/impact"
+    ],
+    "human"
+  ],
+  "rvp'": [
+    "@xl",
+    "rubidium"
+  ],
+  "rw": [
+    [
+      [
+        "number",
+        "variable",
+        "coefficient"
+      ],
+      "abstract",
+      "applied"
+    ],
+    [
+      [
+        "mathematical term",
+        "function",
+        "mathematical constant"
+      ],
+      "abstract",
+      "applied"
+    ]
+  ],
+  "rx": [
+    "+k",
+    "obliquely linear"
+  ],
+  "rxh": [
+    [
+      [
+        "CNS component",
+        "neurological process",
+        "peripheral nervous system component"
+      ],
+      "tissue focus",
+      "neurological focus"
+    ],
+    [
+      [
+        "brain",
+        "spinal cord",
+        "nerve"
+      ],
+      "tissue focus",
+      "neurological focus"
+    ]
+  ],
+  "rz": [
+    "+k",
+    "around 3D surface"
+  ],
+  "rż": [
+    "@gv",
+    "sari"
+  ],
+  "rž": [
+    "+k",
+    "inside 3D boundary"
+  ],
+  "rzd": [
+    "@sk",
+    "alligator"
+  ],
+  "rzw": [
+    "@sk",
+    "yak"
+  ],
+  "rżw": [
+    "@sk",
+    "lizard"
+  ],
+  "řb": [
+    "@š",
+    "lumpy texture"
+  ],
+  "řbg": [
+    "@sk",
+    "lemur"
+  ],
+  "rbw": [
+    "@sk",
+    "lepoard"
+  ],
+  "řc": [
+    "@š",
+    "rock texture"
+  ],
+  "řč": [
+    [
+      [
+        "gastrointestinal component + function",
+        "gastrointestinal process + function",
+        "feces"
+      ],
+      [
+        "gastrointestinal component",
+        "gastrointestinal process",
+        "feces (itself)"
+      ],
+      [
+        "gastrointestinal component function",
+        "gastrointestinal process function",
+        "feces (function)"
+      ]
+    ],
+    [
+      [
+        "urological component + function",
+        "urological process + function",
+        "urine"
+      ],
+      [
+        "urological component",
+        "urological process",
+        "urine (itself)"
+      ],
+      [
+        "urological component function",
+        "urological process function",
+        "urine (function)"
+      ]
+    ]
+  ],
+  "řc'": [
+    "@sx",
+    "marinate",
+    "marinated food",
+    "container for marinating",
+    "container for marinating"
+  ],
+  "řč'": [
+    "@š",
+    "coarse texture"
+  ],
+  "řch": [
+    "@š",
+    "numbing texture"
+  ],
+  "řdh": [
+    "@š",
+    "liquidy texture"
+  ],
+  "řd": [
+    [
+      [
+        "burp",
+        "vomit",
+        "fart"
+      ],
+      "act",
+      "sound"
+    ],
+    "volitional"
+  ],
+  "řdř": [
+    "@xl",
+    "krypton"
+  ],
+  "řdw": [
+    "@š",
+    "soggy/waterlogged/moist texture"
+  ],
+  "řf": [
+    "@š",
+    "gooey texture"
+  ],
+  "řg": [
+    "@gv",
+    "tunic"
+  ],
+  "řgl": [
+    "@š",
+    "plastic-like texture"
+  ],
+  "řgr": [
+    "@sk",
+    "puma"
+  ],
+  "řgř": [
+    "@š",
+    "downy texture"
+  ],
+  "řgw": [
+    "@sk",
+    "jaguar"
+  ],
+  "řgz": [
+    "@sk",
+    "giraffe"
+  ],
+  "řj": [
+    "@š",
+    "gritty texture"
+  ],
+  "řjw": [
+    "@sk",
+    "elk"
+  ],
+  "řk": [
+    "@š",
+    "hard + semi-smooth texture (wood)"
+  ],
+  "řk'": [
+    "@š",
+    "cotton-candy texture"
+  ],
+  "řkh": [
+    "@š",
+    "sandpaper texture"
+  ],
+  "řkw": [
+    "@sk",
+    "turkey"
+  ],
+  "řl": [
+    "@š",
+    "ice-cold texture"
+  ],
+  "řļ": [
+    "@š",
+    "chewy texture"
+  ],
+  "řm": [
+    "@xl",
+    "silk"
+  ],
+  "řmn": [
+    "@xl",
+    "osmium"
+  ],
+  "řn": [
+    "@š",
+    "gummy texture"
+  ],
+  "řqr": [
+    "@š",
+    "mettalic texture"
+  ],
+  "řř": [
+    [
+      [
+        "empty set",
+        "additive identity 0",
+        "0D point"
+      ],
+      "abstract",
+      "applied"
+    ],
+    [
+      [
+        "0 as placeholder",
+        "cardinality of empty set",
+        "null value"
+      ],
+      "abstract",
+      "applied"
+    ]
+  ],
+  "řš": [
+    [
+      [
+        "dim",
+        "pale",
+        "shaded"
+      ],
+      "state/process focus",
+      "effect focus"
+    ],
+    [
+      [
+        "dull",
+        "faded",
+        "murky"
+      ],
+      "state/process focus",
+      "effect focus"
+    ]
+  ],
+  "řsw": [
+    "@xt'",
+    "lavender"
+  ],
+  "řthw": [
+    "@sk",
+    "ostrich"
+  ],
+  "řzw": [
+    "@sk",
+    "buffalo"
+  ],
+  "s": [
+    [
+      [
+        "change",
+        "vary",
+        "deviate"
+      ],
+      "appearance/structure focus",
+      "behavior/function focus"
+    ],
+    [
+      [
+        "alter/modify",
+        "diversify/permutate",
+        "modulate"
+      ],
+      "appearance/structure focus",
+      "behavior/function focus"
+    ]
+  ],
+  "sc": [
+    "@pk",
+    "ecstatic contemplation of nature"
+  ],
+  "sč": [
+    [
+      [
+        "honorable",
+        "respectable",
+        "esteemed"
+      ],
+      "state focus",
+      "consequence focus"
+    ],
+    "self-aware"
+  ],
+  "sch": [
+    "@xt'",
+    "gray"
+  ],
+  "sf": [
+    "@g",
+    "bottom"
+  ],
+  "sk": [
+    "@sk",
+    "mammal/avian/reptile"
+  ],
+  "sk'": [
+    [
+      [
+        "gather in one location",
+        "pick up, gather selectively",
+        "growing pile of"
+      ],
+      "gathered entities focus",
+      "accumulation focus"
+    ],
+    [
+      [
+        "queue up",
+        "collect formally",
+        "accretion"
+      ],
+      "gathered entities focus",
+      "accumulation focus"
+    ]
+  ],
+  "skh": [
+    [
+      [
+        "course taken",
+        "marked path taken",
+        "trajectory"
+      ],
+      "way itself",
+      "act of travel"
+    ],
+    [
+      [
+        "route taken",
+        "road taken",
+        "channel taken"
+      ],
+      "way itself",
+      "act of travel"
+    ]
+  ],
+  "skhw": [
+    "@sk",
+    "robin"
+  ],
+  "skl": [
+    "@pk",
+    "social bubbliness"
+  ],
+  "skr": [
+    [
+      [
+        "lax about",
+        "put up with",
+        "bear/endure"
+      ],
+      "state focus",
+      "object focus"
+    ],
+    [
+      [
+        "lenient twoard",
+        "socio-cultural tolerance",
+        "altruistically sustain"
+      ],
+      "state focus",
+      "object focus"
+    ]
+  ],
+  "sky": [
+    "@pk",
+    "emotionally stifled"
+  ],
+  "@sl": [
+    [
+      [
+        "(cloud of) @",
+        "(cloud of) derived @",
+        "source of @"
+      ],
+      [
+        "cloud of @",
+        "cloud of derived @",
+        "natural source of @"
+      ],
+      [
+        "@ itself",
+        "derived @ itself",
+        "artificial source of @"
+      ]
+    ],
+    [
+      [
+        "@ in abnormal solid/liquid state",
+        "thing made of @ + function",
+        "state of being gas or not"
+      ],
+      [
+        "frozen @",
+        "thing made of @",
+        "gaseous state"
+      ],
+      [
+        "condensation",
+        "function of thing made of @",
+        "semi-gaseous state"
+      ]
+    ]
+  ],
+  "sl": [
+    "@sl",
+    "gas"
+  ],
+  "sm": [
+    [
+      [
+        "relative elevation",
+        "geological stratum",
+        "flatland area"
+      ],
+      [
+        "valley",
+        "deep underground",
+        "geographical plateau"
+      ],
+      [
+        "hill",
+        "shallow underground",
+        "geographical ridge"
+      ]
+    ],
+    "geopolitical"
+  ],
+  "sn": [
+    [
+      [
+        "taste",
+        "tongue/palate",
+        "imagine taste"
+      ],
+      [
+        "to taste",
+        "tongue/palate (organ)",
+        "to imagine a taste"
+      ],
+      [
+        "a whiff of flavor",
+        "taste bud",
+        "imagined flavor"
+      ]
+    ],
+    [
+      [
+        "taste (anticipating)",
+        "flavor detection",
+        "create flavor"
+      ],
+      [
+        "taste for anticipated flavor",
+        "to detect a flavor",
+        "to create a flavor"
+      ],
+      [
+        "anticipated flavor",
+        "detected flavor",
+        "manufactured flavor"
+      ]
+    ]
+  ],
+  "sp": [
+    [
+      [
+        "exchange",
+        "interchange",
+        "replace"
+      ],
+      "focus on given",
+      "focus on taken"
+    ],
+    [
+      [
+        "trade",
+        "commerce",
+        "investment"
+      ],
+      [
+        "acquire through trade",
+        "buy",
+        "acquire via investment"
+      ],
+      [
+        "trade away",
+        "sell",
+        "release interest in"
+      ]
+    ]
+  ],
+  "sp'": [
+    [
+      [
+        "degree of bodily fatness",
+        "lose weight",
+        "gain weight"
+      ],
+      "physical",
+      "psychological effect"
+    ],
+    "unusual"
+  ],
+  "sph": [
+    "@sl",
+    "carbon dioxide"
+  ],
+  "sphw": [
+    "+qw",
+    "lettuce"
+  ],
+  "spl": [
+    [
+      [
+        "face",
+        "face (interface)",
+        "face (recognition)"
+      ],
+      "physical",
+      "function"
+    ],
+    "non-animal"
+  ],
+  "sq": [
+    "@sx",
+    "cook",
+    "cooked food",
+    "cooking stove",
+    "pot for cooking"
+  ],
+  "sq'": [
+    "@sl",
+    "oxygen"
+  ],
+  "sqh": [
+    "@pk",
+    "being moved by art"
+  ],
+  "sqhw": [
+    "+qw",
+    "cabbage"
+  ],
+  "sqw": [
+    "+qw",
+    "tomato"
+  ],
+  "sr": [
+    [
+      [
+        "north-south designation",
+        "north designation",
+        "south designation"
+      ],
+      [
+        "north-south direction",
+        "north direction",
+        "south direction"
+      ],
+      [
+        "north-south geo. areal designation",
+        "north geo. areal designation",
+        "south geo. areal designation"
+      ]
+    ],
+    [
+      [
+        "latitude",
+        "north latitude",
+        "south latitude"
+      ],
+      [
+        "polar area",
+        "Arctic",
+        "Antarctic"
+      ],
+      [
+        "line of latitude",
+        "Northern Hemisphere",
+        "Southern Hemisphere"
+      ]
+    ]
+  ],
+  "sř": [
+    [
+      [
+        "paternal collateral relative",
+        "paternal male collateral relative",
+        "paternal female collateral relative"
+      ],
+      [
+        "paternal nephew/niece",
+        "paternal nephew",
+        "paternal niece"
+      ],
+      [
+        "paternal aunt/uncle",
+        "paternal uncle",
+        "paternal aunt"
+      ]
+    ],
+    [
+      [
+        "maternal collateral relative",
+        "maternal male collateral relative",
+        "maternal female collateral relative"
+      ],
+      [
+        "maternal nephew/niece",
+        "maternal nephew",
+        "maternal niece"
+      ],
+      [
+        "maternal aunt/uncle",
+        "maternal uncle",
+        "maternal aunt"
+      ]
+    ]
+  ],
+  "ss": [
+    "@sl",
+    "air"
+  ],
+  "st": [
+    [
+      [
+        "compare",
+        "distinguish",
+        "pro-con analysis"
+      ],
+      "act focus",
+      "purpose focus"
+    ],
+    [
+      [
+        "measure",
+        "discern",
+        "relate"
+      ],
+      "act focus",
+      "purpose focus"
+    ]
+  ],
+  "sţ": [
+    "@num",
+    "5"
+  ],
+  "st'": [
+    "+qw",
+    "peanut"
+  ],
+  "sth": [
+    "@sx",
+    "boil",
+    "boiled food",
+    "stove for boiling",
+    "pot for boiling"
+  ],
+  "sthw": [
+    "@sk",
+    "sparrow"
+  ],
+  "stl": [
+    [
+      [
+        "something worthwhile",
+        "something opportune",
+        "something apropos"
+      ],
+      "state",
+      "outcome"
+    ],
+    [
+      [
+        "favorable circumstances",
+        "special opportunity",
+        "something convenient"
+      ],
+      "state",
+      "outcome"
+    ]
+  ],
+  "str": [
+    "@xl",
+    "diamond"
+  ],
+  "stv": [
+    "@xt'",
+    "cyan"
+  ],
+  "stw": [
+    "+qw",
+    "rice"
+  ],
+  "sty": [
+    "+qw",
+    "bean"
+  ],
+  "sv": [
+    "@pk",
+    "fear"
+  ],
+  "sw": [
+    [
+      [
+        "planet",
+        "moon/satellite",
+        "spatial body"
+      ],
+      "physical",
+      "human interaction focus"
+    ],
+    [
+      [
+        "the Earth",
+        "the Moon",
+        "artificial satellite"
+      ],
+      "physical",
+      "human interaction focus"
+    ]
+  ],
+  "@sx": [
+    [
+      [
+        "@1/@2",
+        "@3",
+        "@4"
+      ],
+      [
+        "@1",
+        "@3 (as environment)",
+        "@4 (as support)"
+      ],
+      [
+        "@2",
+        "@3 (as means)",
+        "@4 (as means)"
+      ]
+    ],
+    "commercial"
+  ],
+  "sx": [
+    "@sx",
+    "bake",
+    "baked food",
+    "oven",
+    "baking pan"
+  ],
+  "sxh": [
+    "@sxh",
+    "disease"
+  ],
+  "sy": [
+    [
+      [
+        "manner",
+        "guise",
+        "practice"
+      ],
+      "practice itself",
+      "effect focus"
+    ],
+    [
+      [
+        "method",
+        "conduct oneself",
+        "demeanor"
+      ],
+      "behavior itself",
+      "effect focus"
+    ]
+  ],
+  "š": [
+    "@š",
+    "texture"
+  ],
+  "šč": [
+    "@pk",
+    "ultra-alertness"
+  ],
+  "šč'": [
+    "@pk",
+    "spite"
+  ],
+  "ščh": [
+    "@pk",
+    "vengeance-hollowness discovery"
+  ],
+  "šf": [
+    "@pk",
+    "devilishness"
+  ],
+  "šk": [
+    [
+      [
+        "arm (entity)",
+        "arm (holder)",
+        "arm (protective extension of body)"
+      ],
+      [
+        "arm (body part)",
+        "arm (limb)",
+        "arm (extension)"
+      ],
+      [
+        "arm (manipulating)",
+        "arm (holder function)",
+        "arm (protective)"
+      ]
+    ],
+    "non-animal"
+  ],
+  "šk'": [
+    [
+      [
+        "degree of open-mindedness",
+        "degree of ability to see another's perspective",
+        "degree of ability to relativize"
+      ],
+      "state focus",
+      "consequence focus"
+    ],
+    [
+      [
+        "degree of zealotry",
+        "degree of bigotry",
+        "degree of principal flexibility"
+      ],
+      "state focus",
+      "consequence focus"
+    ]
+  ],
+  "škç": [
+    "@sk",
+    "pigeon"
+  ],
+  "škh": [
+    "@pk",
+    "criticism-victimhood revelation"
+  ],
+  "škhw": [
+    "+qw",
+    "corn"
+  ],
+  "škţ": [
+    "@xl",
+    "bicarbonate of soda"
+  ],
+  "šky": [
+    "+qw",
+    "pea"
+  ],
+  "šl": [
+    [
+      [
+        "something funny",
+        "something witty",
+        "something farcical"
+      ],
+      "joke focus",
+      "impact focus"
+    ],
+    [
+      [
+        "prank",
+        "joke",
+        "something sardonic"
+      ],
+      "joke focus",
+      "impact focus"
+    ]
+  ],
+  "šm": [
+    "@g",
+    "lower half"
+  ],
+  "šny": [
+    "@xl",
+    "brine"
+  ],
+  "šp": [
+    [
+      [
+        "switch to opposite value",
+        "change or reverse direction",
+        "toggle between on/off state"
+      ],
+      [
+        "set to primary value",
+        "change direction",
+        "(turn) on"
+      ],
+      [
+        "set to secondary value",
+        "reverse direction",
+        "(turn) off"
+      ]
+    ],
+    "formal"
+  ],
+  "šp'": [
+    [
+      [
+        "gather plants",
+        "nomadic hunting",
+        "live off the land"
+      ],
+      "focus on hunting",
+      "focus on things hunted"
+    ],
+    [
+      [
+        "sow and harvest an annual crop",
+        "sow and harvest a permanent seasonal crop",
+        "manage crops/animals"
+      ],
+      [
+        "plow and plant seeds",
+        "grow a permanent seasonal crop",
+        "grow crops and raise food-producing animals"
+      ],
+      [
+        "harvest an annual crop",
+        "harvest a permanent seasonal crop",
+        "harvest crop products and collect animal products"
+      ]
+    ]
+  ],
+  "šph": [
+    "@pk",
+    "failed joke humor/shame"
+  ],
+  "šphw": [
+    "@sk",
+    "lark"
+  ],
+  "špr": [
+    "@xl",
+    "marble"
+  ],
+  "šq": [
+    [
+      [
+        "await",
+        "expect",
+        "predict"
+      ],
+      "process focus",
+      "thing awaited focus"
+    ],
+    [
+      [
+        "be vigilant",
+        "foresee",
+        "prognosticate"
+      ],
+      "process focus",
+      "thing awaited focus"
+    ]
+  ],
+  "šq'": [
+    "@sx",
+    "roast",
+    "roasted food",
+    "oven/flame for roasting",
+    "spit for roasting"
+  ],
+  "šqh": [
+    "@pk",
+    "schadenfreude"
+  ],
+  "šr": [
+    "@pk",
+    "discomfiture at being ill-prepared"
+  ],
+  "šř": [
+    "@pk",
+    "impatience at wasted time/resources"
+  ],
+  "šš": [
+    [
+      [
+        "something covered up",
+        "something hidden away",
+        "something elusive"
+      ],
+      "state focus",
+      "object focus"
+    ],
+    [
+      [
+        "something masked",
+        "something obscure",
+        "something sneaky"
+      ],
+      "state focus",
+      "object focus"
+    ]
+  ],
+  "št": [
+    "@sx",
+    "fry",
+    "fried food",
+    "deep fryer",
+    "deep fryer basket"
+  ],
+  "šţ": [
+    "@pk",
+    "contemplation of new option"
+  ],
+  "št'": [
+    [
+      [
+        "feel attracted to someone",
+        "feel attractive to someone",
+        "hint attraction to someone"
+      ],
+      "viewpoint of others",
+      "viewpoint of party feeling attraction"
+    ],
+    [
+      [
+        "feel attracted to idea",
+        "be attractive (idea)",
+        "selling point"
+      ],
+      "viewpoint of others",
+      "viewpoint of party feeling attraction"
+    ]
+  ],
+  "šth": [
+    "@pk",
+    "dread"
+  ],
+  "štl": [
+    "@sk",
+    "owl"
+  ],
+  "šv": [
+    "@pk",
+    "solace"
+  ],
+  "šw": [
+    [
+      [
+        "something pretty",
+        "something delicate",
+        "something charming"
+      ],
+      "entity focus",
+      "reaction focus"
+    ],
+    [
+      [
+        "something beautiful",
+        "something elegant",
+        "something sublime"
+      ],
+      "entity focus",
+      "reaction focus"
+    ]
+  ],
+  "šx": [
+    "@pk",
+    "desire to solve a mystery"
+  ],
+  "šxh": [
+    "@pk",
+    "near-loss-of-control"
+  ],
+  "šy": [
+    "@pk",
+    "wistfulness"
+  ],
+  "t": [
+    [
+      [
+        "living thing",
+        "animal",
+        "plant"
+      ],
+      "male",
+      "female"
+    ],
+    [
+      [
+        "civilized being",
+        "domesticated animal",
+        "cultivated plant"
+      ],
+      "male",
+      "female"
+    ]
+  ],
+  "t'": [
+    [
+      [
+        "position outside",
+        "position outside (2D)",
+        "position outside (3D)"
+      ],
+      "focus on exterior position",
+      "focus on position on exterior surface"
+    ],
+    [
+      [
+        "space outside",
+        "external surface",
+        "space beyond interior volume"
+      ],
+      "focus on exterior position",
+      "focus on position on exterior surface"
+    ]
+  ],
+  "tç": [
+    [
+      [
+        "spacetime point",
+        "spacetime volume",
+        "flow of spacetime"
+      ],
+      [
+        "space of spacetime point",
+        "space of spacetime volume",
+        "expanse of space"
+      ],
+      [
+        "time of spacetime point",
+        "time of spacetime volume",
+        "flow of time"
+      ]
+    ],
+    [
+      [
+        "volume of linear spacetime (Newtonian)",
+        "point in space and time (Newtonion)",
+        "linear flow of space and time (Newtonian)"
+      ],
+      [
+        "volume of linear space (Newtonian)",
+        "point in space (Newtonion)",
+        "linear expanse of space (Newtonian)"
+      ],
+      [
+        "volume of linear time (Newtonian)",
+        "point in time (Newtonion)",
+        "linear flow of time (Newtonian)"
+      ]
+    ]
+  ],
+  "tf": [
+    [
+      [
+        "fool someone",
+        "play games with someone",
+        "be mesmerized"
+      ],
+      "state focus",
+      "content focus"
+    ],
+    [
+      [
+        "state of delusion",
+        "means of psychiatric treatment",
+        "hypnotic state"
+      ],
+      "state focus",
+      "content focus"
+    ]
+  ],
+  "tfř": [
+    "@sl",
+    "ozone"
+  ],
+  "th": [
+    [
+      [
+        "law",
+        "applicability of law to situation/area",
+        "criminal investigation"
+      ],
+      [
+        "statement of law",
+        "applicability of law",
+        "gather evidence in criminal investigation"
+      ],
+      [
+        "application of law",
+        "state of being subject to law",
+        "act for criminal identification/apprehension"
+      ]
+    ],
+    [
+      [
+        "act of official law enforcement",
+        "jurisdiction in situation/area",
+        "go to trial"
+      ],
+      [
+        "authority to enforce law",
+        "jurisdiction of law enforcement powers",
+        "prosecution"
+      ],
+      [
+        "act of enforcing law",
+        "state of being subject to jurisdiction",
+        "formal weighing of evidence by judge/jury"
+      ]
+    ]
+  ],
+  "tk": [
+    "@g",
+    "upper part"
+  ],
+  "tk'": [
+    [
+      [
+        "sincere",
+        "frank",
+        "trustworthy"
+      ],
+      "state focus",
+      "consequence focus"
+    ],
+    "self-aware"
+  ],
+  "tkç": [
+    "@xl",
+    "mercury"
+  ],
+  "tkh": [
+    [
+      [
+        "spheroid",
+        "ovoid",
+        "torus"
+      ],
+      "abstract",
+      "object"
+    ],
+    "flexible or hollow"
+  ],
+  "tkr": [
+    "@sk",
+    "pig"
+  ],
+  "tl": [
+    "@xl",
+    "salt"
+  ],
+  "tļ": [
+    [
+      [
+        "surface curve/curl + object",
+        "surface dimple + object",
+        "surface distortion + object"
+      ],
+      [
+        "surface curve/curl",
+        "surface dimple",
+        "surface distortion"
+      ],
+      [
+        "object with surface curve/curl",
+        "object with surface dimple",
+        "object with surface distortion"
+      ]
+    ],
+    "volume focus"
+  ],
+  "tlw": [
+    "@xt'",
+    "teal"
+  ],
+  "tm": [
+    [
+      [
+        "indication",
+        "track/trail",
+        "identifying characteristic"
+      ],
+      "indicator focus",
+      "content/meaning focus"
+    ],
+    [
+      [
+        "mark/token",
+        "emblem",
+        "formal representation"
+      ],
+      "indicator focus",
+      "content/meaning focus"
+    ]
+  ],
+  "tn": [
+    [
+      [
+        "ladder",
+        "stair",
+        "bridge"
+      ],
+      "thing focus",
+      "function focus"
+    ],
+    [
+      [
+        "winch/windlass",
+        "expandable boom",
+        "derrick"
+      ],
+      "thing focus",
+      "function focus"
+    ]
+  ],
+  "tp": [
+    [
+      [
+        "read",
+        "read/interpret",
+        "erudition"
+      ],
+      "acquisition focus",
+      "physical act focus"
+    ],
+    [
+      [
+        "recite",
+        "read/interpret (arcane)",
+        "exposition based on erudition"
+      ],
+      "conveyance focus",
+      "physical act focus"
+    ]
+  ],
+  "tq": [
+    "@pk",
+    "inner balance"
+  ],
+  "tr": [
+    "@xt'",
+    "green"
+  ],
+  "tř": [
+    [
+      [
+        "appear",
+        "expose",
+        "call attention to"
+      ],
+      "act focus",
+      "thing shown focus"
+    ],
+    [
+      [
+        "exhibit",
+        "show off",
+        "announce/advertise"
+      ],
+      "act focus",
+      "thing exhibited focus"
+    ]
+  ],
+  "tt": [
+    [
+      [
+        "acknowledge",
+        "hail",
+        "congratulate"
+      ],
+      "act focus",
+      "purpose focus"
+    ],
+    [
+      [
+        "greet(ing)",
+        "welcome/farewell",
+        "socially introduce"
+      ],
+      "act focus",
+      "purpose focus"
+    ]
+  ],
+  "tv": [
+    [
+      [
+        "self",
+        "delineate as separate entity",
+        "identity"
+      ],
+      "referent",
+      "identification"
+    ],
+    [
+      [
+        "part of ego",
+        "character trait",
+        "subjective belief/POV"
+      ],
+      "itself",
+      "effect focus"
+    ]
+  ],
+  "tw": [
+    [
+      [
+        "entity present + presence",
+        "occupant + place occupied",
+        "denizen + claimed property"
+      ],
+      [
+        "entity present",
+        "occupant",
+        "denizen"
+      ],
+      [
+        "presence of entity",
+        "place occupied",
+        "claimed property"
+      ]
+    ],
+    [
+      [
+        "tenant + domicile",
+        "resident + residence",
+        "citizen + property"
+      ],
+      [
+        "tenant",
+        "resident",
+        "citizen"
+      ],
+      [
+        "domicile",
+        "residence",
+        "property"
+      ]
+    ]
+  ],
+  "tx": [
+    [
+      [
+        "medium of exchange",
+        "unit of currency",
+        "quasi-contractual document equivalent to currency"
+      ],
+      [
+        "medium of exchange as concept",
+        "coin",
+        "cheque"
+      ],
+      [
+        "act of exchange utilizing medium",
+        "banknote",
+        "scrip"
+      ]
+    ],
+    [
+      [
+        "act of financial accounting",
+        "item of financial capital",
+        "commodity"
+      ],
+      [
+        "process of financial accounting",
+        "promissory note",
+        "soft commodity"
+      ],
+      [
+        "accounting, evaluation of financial assets",
+        "stock certificate",
+        "hard commodity"
+      ]
+    ]
+  ],
+  "txh": [
+    [
+      [
+        "subatomic particle + effect",
+        "elementary particle + effect",
+        "composite particle + effect"
+      ],
+      [
+        "subatomic particle",
+        "elementary particle",
+        "composite particle"
+      ],
+      [
+        "force of subatomic particle",
+        "force of elementary particle",
+        "force of composite particle"
+      ]
+    ],
+    [
+      [
+        "hypothetical subatomic particle + effect",
+        "antimatter particle + effect",
+        "dark matter particle + effect"
+      ],
+      [
+        "hypothetical subatomic particle",
+        "antimatter particle",
+        "dark matter particle"
+      ],
+      [
+        "force of hypothetical subatomic particle",
+        "force of antimatter particle",
+        "force of dark matter particle"
+      ]
+    ]
+  ],
+  "ty": [
+    [
+      [
+        "feel wonder",
+        "sense of magic",
+        "cause of wonder"
+      ],
+      "process focus",
+      "experiential state focus"
+    ],
+    "awe/worship"
+  ],
+  "ţ": [
+    [
+      [
+        "head as gestalt",
+        "head as seat of brain/mind",
+        "head as interface of body"
+      ],
+      [
+        "head as physical body part",
+        "head as physical seat of brain",
+        "head as \"top\" part"
+      ],
+      [
+        "head as functional body part",
+        "head as functional seat of mind",
+        "head as vital seat of identity"
+      ]
+    ],
+    "non-animal"
+  ],
+  "ţb": [
+    "@ţq",
+    "inertness (vs. bounciness)"
+  ],
+  "ţc": [
+    [
+      [
+        "mood",
+        "instinct",
+        "phychic phenomenon"
+      ],
+      "state focus",
+      "content focus"
+    ],
+    [
+      [
+        "rationalize",
+        "delusion",
+        "dream"
+      ],
+      "state focus",
+      "content focus"
+    ]
+  ],
+  "ţc'": [
+    [
+      [
+        "feeling of being able to relate",
+        "feel sympathy for",
+        "feel sorry for"
+      ],
+      "state focus",
+      "target focus"
+    ],
+    [
+      [
+        "feel compassion for",
+        "feel empathy for",
+        "condolence/consolation"
+      ],
+      "state focus",
+      "target focus"
+    ]
+  ],
+  "ţč": [
+    [
+      [
+        "degree of physical pain",
+        "degree of emotional pain",
+        "degree of physical dissatisfaction/lack"
+      ],
+      "feeling focus",
+      "cause focus"
+    ],
+    [
+      [
+        "degree of spiritual displeasure",
+        "degree of misery",
+        "degree of emotional dissatisfaction"
+      ],
+      "feeling focus",
+      "cause focus"
+    ]
+  ],
+  "ţg": [
+    [
+      [
+        "motive",
+        "intention",
+        "incentive"
+      ],
+      "state focus",
+      "content focus"
+    ],
+    [
+      [
+        "moral principle",
+        "aspiration",
+        "free will"
+      ],
+      "state focus",
+      "content focus"
+    ]
+  ],
+  "ţk": [
+    "@num",
+    "3"
+  ],
+  "ţk'": [
+    "@pk",
+    "commitment"
+  ],
+  "ţkh": [
+    "@ţq",
+    "stiffness (vs. suppleness)"
+  ],
+  "ţkhw": [
+    "+qw",
+    "spinach"
+  ],
+  "ţkl": [
+    "@sl",
+    "nitrous oxide"
+  ],
+  "ţkř": [
+    "@sl",
+    "helium"
+  ],
+  "ţky": [
+    "+qw",
+    "wheat"
+  ],
+  "ţl": [
+    "@pk",
+    "numbness/emotional saturation"
+  ],
+  "ţlw": [
+    "@sl",
+    "hydrogen"
+  ],
+  "ţly": [
+    "@sl",
+    "chlorine"
+  ],
+  "ţm": [
+    [
+      [
+        "strip",
+        "plane",
+        "tube"
+      ],
+      "abstract",
+      "object"
+    ],
+    [
+      [
+        "ribbon shape",
+        "sheet shape",
+        "flexible tube shape"
+      ],
+      "abstract",
+      "object"
+    ]
+  ],
+  "ţmw": [
+    "+qw",
+    "garlic"
+  ],
+  "ţmy": [
+    "@sl",
+    "carbon monoxide"
+  ],
+  "ţn": [
+    [
+      [
+        "period longer than day",
+        "lunar period",
+        "solar year"
+      ],
+      "elapsed time focus",
+      "time during which"
+    ],
+    [
+      [
+        "subjective long period",
+        "geologic era",
+        "lifetime"
+      ],
+      "elapsed time focus",
+      "time during which"
+    ]
+  ],
+  "ţny": [
+    "@xl",
+    "lime"
+  ],
+  "ţp": [
+    [
+      [
+        "degree of being dirt-free",
+        "degree of being unpolluted",
+        "degree of being pristine"
+      ],
+      "state focus",
+      "consequence focus"
+    ],
+    [
+      [
+        "degree of being tidy",
+        "degree of being hygienic",
+        "degree of being free from dirt from neglect/disuse"
+      ]
+    ]
+  ],
+  "ţpf": [
+    "@xl",
+    "talc"
+  ],
+  "ţph": [
+    "@pk",
+    "nonchalance"
+  ],
+  "ţphw": [
+    "+qw",
+    "sorghum"
+  ],
+  "ţpļ": [
+    "@xl",
+    "methanol"
+  ],
+  "ţpř": [
+    "@sl",
+    "nitrogen"
+  ],
+  "ţpţ": [
+    "@sl",
+    "fluorine"
+  ],
+  "ţpw": [
+    "@xl",
+    "baking soda"
+  ],
+  "ţq": [
+    "@ţq",
+    "consistency"
+  ],
+  "ţq'": [
+    "@ţq",
+    "cohesiveness (vs. crumbliness)"
+  ],
+  "ţqf": [
+    "@sl",
+    "radon"
+  ],
+  "ţqh": [
+    "@pk",
+    "lethargy"
+  ],
+  "ţqhw": [
+    "+qw",
+    "lentil"
+  ],
+  "ţqţ": [
+    "@sl",
+    "argon"
+  ],
+  "ţr": [
+    "@xl",
+    "table sugar"
+  ],
+  "ţř": [
+    "@g",
+    "edge"
+  ],
+  "ţt": [
+    "@ţq",
+    "stiffness (vs. flaccidity)"
+  ],
+  "ţt'": [
+    "@ţq",
+    "resiliency (vs. flimsiness)"
+  ],
+  "ţth": [
+    "@ţq",
+    "resiliency (vs. brittleness)"
+  ],
+  "ţtl": [
+    "@sl",
+    "neon"
+  ],
+  "ţtř": [
+    "@sl",
+    "xenon"
+  ],
+  "ţv": [
+    "@ţq",
+    "inertness (vs. jiggliness)"
+  ],
+  "ţw": [
+    [
+      [
+        "weather condition",
+        "warm amenable weather",
+        "cold amenable weather"
+      ],
+      "condition itself",
+      "impact"
+    ],
+    [
+      [
+        "adverse weather condition",
+        "warm adverse weather",
+        "cold adverse weather"
+      ],
+      "condition itself",
+      "impact"
+    ]
+  ],
+  "ţx": [
+    "@ţq",
+    "stiffness"
+  ],
+  "ţxh": [
+    [
+      [
+        "conceited",
+        "smug/pedantic",
+        "prim/foppish"
+      ],
+      "state focus",
+      "consequence focus"
+    ],
+    "self-aware"
+  ],
+  "ţxhw": [
+    "+qw",
+    "yam"
+  ],
+  "ţy": [
+    "@pk",
+    "benevolence"
+  ],
+  "v": [
+    [
+      [
+        "play",
+        "leisure",
+        "hobby"
+      ],
+      "activity focus",
+      "enjoyment focus"
+    ],
+    [
+      [
+        "play a game/sport",
+        "formal entertainment",
+        "sport activity"
+      ],
+      "activity focus",
+      "enjoyment focus"
+    ]
+  ],
+  "vbr": [
+    "@sk",
+    "elephant"
+  ],
+  "vdr": [
+    "@sk",
+    "wolf"
+  ],
+  "vg": [
+    "@gv",
+    "helmet"
+  ],
+  "vgl": [
+    "@xl",
+    "linoleum"
+  ],
+  "vgr": [
+    "@sk",
+    "kangaroo"
+  ],
+  "vgř": [
+    "@xl",
+    "graphite"
+  ],
+  "vgw": [
+    "@sk",
+    "deer"
+  ],
+  "vgy": [
+    "@xl",
+    "acetone"
+  ],
+  "vkr": [
+    "@sk",
+    "zebra"
+  ],
+  "vkř": [
+    "@xl",
+    "emery powder"
+  ],
+  "vkw": [
+    "@sk",
+    "mule"
+  ],
+  "vky": [
+    "+qw",
+    "sesame"
+  ],
+  "vl": [
+    [
+      [
+        "basin + contents",
+        "closed container + contents",
+        "ingredient-haver + ingredient"
+      ],
+      [
+        "contents of basin",
+        "contents of closed container",
+        "ingredient"
+      ],
+      [
+        "basin",
+        "closed container",
+        "ingredient-haver"
+      ]
+    ],
+    "quasi-permanent"
+  ],
+  "vm": [
+    [
+      [
+        "obtuse curve + object",
+        "sharp curve + object",
+        "math curve + object"
+      ],
+      [
+        "obtuse curve line",
+        "sharp curve line",
+        "math curve line"
+      ],
+      [
+        "object with obtuse curve",
+        "object with sharp curve",
+        "object with math curve"
+      ]
+    ],
+    [
+      [
+        "obtuse angle + object",
+        "sharp angle + object",
+        "linear form + object"
+      ],
+      [
+        "obtuse angle line",
+        "sharp angle line",
+        "linear form pattern"
+      ],
+      [
+        "object with obtuse angle",
+        "object with sharp angle",
+        "object with linear form"
+      ]
+    ]
+  ],
+  "vn": [
+    [
+      [
+        "fun",
+        "frolic",
+        "whim"
+      ],
+      "cause focus",
+      "feeling focus"
+    ],
+    [
+      [
+        "jollity",
+        "formal amusement",
+        "revelry"
+      ],
+      "cause focus",
+      "feeling focus"
+    ]
+  ],
+  "vpţ": [
+    "@xl",
+    "epsom salts"
+  ],
+  "vr": [
+    "@vr",
+    "waterlife"
+  ],
+  "vř": [
+    [
+      [
+        "modest/humble",
+        "demure/reserved",
+        "unassuming/unobstrusive"
+      ],
+      "state focus",
+      "consequence focus"
+    ],
+    "self-aware"
+  ],
+  "vtr": [
+    "@pk",
+    "calmness"
+  ],
+  "vty": [
+    "+qw",
+    "millet"
+  ],
+  "vv": [
+    "@pk",
+    "appreciation"
+  ],
+  "vw": [
+    [
+      [
+        "emotional heart/soul",
+        "depth of emotion",
+        "essence"
+      ],
+      "controllable aspects",
+      "non-controllable aspects"
+    ],
+    [
+      [
+        "personal values",
+        "personal virtues",
+        "personal principles"
+      ],
+      "controllable aspects",
+      "non-controllable aspects"
+    ]
+  ],
+  "vy": [
+    [
+      [
+        "beneficial",
+        "morally right",
+        "advantageous"
+      ],
+      "focus on act",
+      "focus on outcome"
+    ],
+    "concrete"
+  ],
+  "vzm": [
+    "@pk",
+    "being consumed by morbid toughts"
+  ],
+  "vžř": [
+    "@xl",
+    "washing soda"
+  ],
+  "vžv": [
+    "@xl",
+    "zinc white"
+  ],
+  "vzy": [
+    "@xl",
+    "potash"
+  ],
+  "x": [
+    [
+      [
+        "sight",
+        "eye",
+        "visualization"
+      ],
+      [
+        "to see",
+        "eye (organ)",
+        "to envision"
+      ],
+      [
+        "a sight",
+        "eye (facial feature)",
+        "image in mind"
+      ]
+    ],
+    [
+      [
+        "examination",
+        "optical instrument + image",
+        "render"
+      ],
+      [
+        "to examine",
+        "optical instrument",
+        "to render"
+      ],
+      [
+        "thing examined",
+        "thing observed instrumentally",
+        "image rendered"
+      ]
+    ]
+  ],
+  "xč": [
+    [
+      [
+        "bladed weapon + use",
+        "point-tip weapon + use",
+        "blunt weapon + use"
+      ],
+      [
+        "bladed weapon",
+        "point-tip weapon",
+        "blunt weapon"
+      ],
+      [
+        "use of bladed weapon",
+        "use of point-tip weapon",
+        "use of blunt weapon"
+      ]
+    ],
+    [
+      [
+        "ballistic projectile + use",
+        "explosive device + use",
+        "chemical weapon + use"
+      ],
+      [
+        "ballistic projectile",
+        "explosive device",
+        "chemical weapon"
+      ],
+      [
+        "use of ballistic projectile",
+        "use of explosive device",
+        "use of chemical weapon"
+      ]
+    ]
+  ],
+  "xchw": [
+    "+qw",
+    "tea"
+  ],
+  "xčw": [
+    "@xl",
+    "fluorspar"
+  ],
+  "xč'": [
+    "@xl",
+    "gypsum"
+  ],
+  "xh": [
+    [
+      [
+        "ontological fact + notice",
+        "epistemological fact + know",
+        "proficiency + know"
+      ],
+      [
+        "notice a fact",
+        "know a fact",
+        "have proficiency"
+      ],
+      [
+        "ontological fact",
+        "epistemological fact",
+        "proficiency"
+      ]
+    ],
+    [
+      [
+        "study + thing studied",
+        "realize + thing realized",
+        "understand + thing understood"
+      ],
+      [
+        "study",
+        "realize",
+        "understand"
+      ],
+      [
+        "thing studied",
+        "thing realized",
+        "thing understood"
+      ]
+    ]
+  ],
+  "xhč'": [
+    [
+      [
+        "simple-minded",
+        "non-analytical",
+        "shallow/anti-intellectual"
+      ],
+      "state focus",
+      "consequence focus"
+    ],
+    "self-aware"
+  ],
+  "xhchw": [
+    "+qw",
+    "teff"
+  ],
+  "xhčw": [
+    "+qw",
+    "ginseng"
+  ],
+  "xhf": [
+    [
+      [
+        "intention",
+        "process of decision-making",
+        "process of determining"
+      ],
+      "mental process focus",
+      "thing pondered focus"
+    ],
+    [
+      [
+        "purpose",
+        "judgement/verdict",
+        "resolution/resolve"
+      ],
+      "process focus",
+      "conclusion focus"
+    ]
+  ],
+  "xhl": [
+    "@xl",
+    "petroleum"
+  ],
+  "xhly": [
+    "@xl",
+    "rare natural element"
+  ],
+  "xhm": [
+    "@xl",
+    "rubber"
+  ],
+  "xhmy": [
+    "@xl",
+    "aspirin"
+  ],
+  "xhn": [
+    [
+      [
+        "happy-despite-ignorance irony",
+        "happy-despite-mean irony",
+        "happy-despite-oldfashioned irony"
+      ],
+      "focus on irony sensed",
+      "focus on state of subject"
+    ],
+    [
+      [
+        "happy-despite-anti-intellectualism irony",
+        "happy-despite-bigotry irony",
+        "happy-despite-savage irony"
+      ],
+      "focus on irony sensed",
+      "focus on state of subject"
+    ]
+  ],
+  "xhnw": [
+    "@xl",
+    "hemp/marijuana"
+  ],
+  "xhny": [
+    "@xl",
+    "silica"
+  ],
+  "xhp": [
+    [
+      [
+        "something well-formed",
+        "something sensually satisfying",
+        "something stylish"
+      ],
+      "entity focus",
+      "reaction focus"
+    ],
+    [
+      [
+        "something perfect",
+        "soemthing exquisite",
+        "something ornate/splendid"
+      ],
+      "entity focus",
+      "reaction focus"
+    ]
+  ],
+  "xhp'": [
+    [
+      [
+        "potassium or chunk of potassium OR feel emotionally closed",
+        "derived potassium or chunk of derived potassium OR act caused by emotional closedness",
+        "source of potassium OR cause of emotional closedness"
+      ],
+      [
+        "chunk of potassium OR feeling emotionally closed (process focus)",
+        "chunk of derived potassium OR act caused by emotional closedness (process focus)",
+        "natural source of potassium OR cause of emotional closedness (process focus)"
+      ],
+      [
+        "potassium OR feeling emotionally closed (feeling focus)",
+        "derived potassium OR act caused by emotional closedness (feeling focus)",
+        "artificial source of potassium OR cause of emotional closedness (feeling focus)"
+      ]
+    ],
+    [
+      [
+        "potassium or chunk of potassium in abnormal liquid or gaseous state OR feel emotionally closed (institutionalized)",
+        "thing made of potassium or its function OR act caused by emotional closedness (institutionalized)",
+        "status of potassium being or not being solid OR cause of emotional closedness (institutionalized)"
+      ],
+      [
+        "potassium or chunk of potassium in abnormal liquid state OR feeling emotionally closed (process focus, institutionalized)",
+        "thing made of potassium OR act caused by emotional closedness (process focus, institutionalized)",
+        "made of solid potassium OR cause of emotional closedness (process focus, institutionalized)"
+      ],
+      [
+        "potassium or chunk of potassium in abnormal gaseous state OR feeling emotionally closed (feeling focus, institutionalized)",
+        "function of thing made of potassium OR act caused by emotional closedness (feeling focus, institutionalized)",
+        "made of quasi-solid potassium OR cause of emotional closedness (feeling focus, institutionalized)"
+      ]
+    ]
+  ],
+  "xhpř": [
+    "@xl",
+    "saltpeter"
+  ],
+  "xhpw": [
+    "+qw",
+    "soya"
+  ],
+  "xht": [
+    "@xl",
+    "plastic"
+  ],
+  "xht'": [
+    "+qw",
+    "amaranth"
+  ],
+  "xhth": [
+    "@xl",
+    "iron"
+  ],
+  "xhtr": [
+    "+qw",
+    "hot pepper"
+  ],
+  "xhtř": [
+    "@xl",
+    "magnesia"
+  ],
+  "xhtw": [
+    "+qw",
+    "tobacco"
+  ],
+  "xhw": [
+    "+qw",
+    "black pepper"
+  ],
+  "xl": [
+    "@xl",
+    "solid substance"
+  ],
+  "xlw": [
+    "@xt'",
+    "yellow-green"
+  ],
+  "xm": [
+    "@num",
+    "9"
+  ],
+  "xmy": [
+    "@xl",
+    "lye"
+  ],
+  "xn": [
+    [
+      [
+        "dorsal area",
+        "lower back",
+        "upper back"
+      ],
+      "body part",
+      "function"
+    ],
+    "non-animal"
+  ],
+  "xp": [
+    [
+      [
+        "dot",
+        "line",
+        "hoop"
+      ],
+      "abstract",
+      "object"
+    ],
+    [
+      [
+        "flexible dot",
+        "string",
+        "loop"
+      ],
+      "abstract",
+      "object"
+    ]
+  ],
+  "xphw": [
+    "+qw",
+    "kelp"
+  ],
+  "xpw": [
+    "+qw",
+    "onion"
+  ],
+  "xp'": [
+    "+qw",
+    "oat"
+  ],
+  "xr": [
+    "@xl",
+    "gold"
+  ],
+  "xt": [
+    [
+      [
+        "expend energy",
+        "labor",
+        "craftsmanship"
+      ],
+      "activity",
+      "product"
+    ],
+    [
+      [
+        "perform function",
+        "do one's job",
+        "act of industry"
+      ],
+      "activity",
+      "product"
+    ]
+  ],
+  "xt'": [
+    "@xt'",
+    "red"
+  ],
+  "xth": [
+    [
+      [
+        "mastery/servitude",
+        "supervision/following orders",
+        "leadership/following leadership"
+      ],
+      [
+        "mastery",
+        "supervision",
+        "leadership"
+      ],
+      [
+        "servitude",
+        "following orders",
+        "following leadership"
+      ]
+    ],
+    [
+      [
+        "military command/obedience",
+        "lordship/submission",
+        "formal authority/compliance"
+      ],
+      [
+        "military command",
+        "lordship",
+        "formal authority"
+      ],
+      [
+        "military obedience",
+        "submission to lordship",
+        "compliance to authority"
+      ]
+    ]
+  ],
+  "xthw": [
+    "+qw",
+    "mustard"
+  ],
+  "xtļ": [
+    "@xw",
+    "non-water"
+  ],
+  "xw": [
+    "@xw",
+    "water"
+  ],
+  "@xw": [
+    [
+      [
+        "container of @",
+        "@ in confined space",
+        "drenched with @"
+      ],
+      [
+        "@ in container",
+        "degree of @ moisture contained",
+        "@ imbued in object"
+      ],
+      [
+        "container holding @",
+        "space occupied by @",
+        "object imbued with @"
+      ]
+    ],
+    [
+      [
+        "body of @",
+        "atmospheric @ (moisture)",
+        "artificial body of @"
+      ],
+      [
+        "@ in body of @",
+        "@ in air/atmosphere",
+        "@ in artificial body of @"
+      ],
+      [
+        "bed of body of @",
+        "space containing @ moisture",
+        "bed of artificial body of @"
+      ]
+    ]
+  ],
+  "xx": [
+    [
+      [
+        "reputation",
+        "public image",
+        "notoriety"
+      ],
+      "perspective of person reputed",
+      "perspective of audience"
+    ],
+    [
+      [
+        "distinction/mark",
+        "degree of eminence",
+        "degree of prestige"
+      ],
+      "perspective of person reputed",
+      "perspective of audience"
+    ]
+  ],
+  "z": [
+    [
+      [
+        "mind + use",
+        "perception + use",
+        "instinct + use"
+      ],
+      [
+        "mind",
+        "perception",
+        "instinct"
+      ],
+      [
+        "use of mind",
+        "perceive",
+        "instinctive act"
+      ]
+    ],
+    [
+      [
+        "sentience + use",
+        "conscious + subconscious",
+        "intellect as tool"
+      ],
+      [
+        "feeling of sentience",
+        "conscious mind",
+        "intellect"
+      ],
+      [
+        "act of self-reflection",
+        "subconscious mind",
+        "product of one's intellect"
+      ]
+    ]
+  ],
+  "zb": [
+    [
+      [
+        "feel/show anger",
+        "threaten",
+        "defend (self) + reason"
+      ],
+      [
+        "feeling of anger",
+        "cause for threat",
+        "cause of defensive act"
+      ],
+      [
+        "show anger",
+        "effect of threat",
+        "take defensive action"
+      ]
+    ],
+    "authoritative"
+  ],
+  "zbr": [
+    "@pk",
+    "emotional drainedness"
+  ],
+  "zbř": [
+    "@xl",
+    "iodine"
+  ],
+  "zbw": [
+    "@š",
+    "hairy texture"
+  ],
+  "zd": [
+    [
+      [
+        "well-mannered",
+        "dignified",
+        "noble"
+      ],
+      "cause focus",
+      "effect focus"
+    ],
+    [
+      [
+        "decorum",
+        "courtly",
+        "aristocratic"
+      ],
+      "cause focus",
+      "effect focus"
+    ]
+  ],
+  "zdl": [
+    "@xl",
+    "formalin"
+  ],
+  "zdr": [
+    "@sk",
+    "bear"
+  ],
+  "zdř": [
+    "@xl",
+    "milk of magnesium"
+  ],
+  "zdw": [
+    "@sk",
+    "coyote"
+  ],
+  "zdy": [
+    "@xl",
+    "benzene"
+  ],
+  "zg": [
+    [
+      [
+        "smile",
+        "laugh",
+        "light up (face)"
+      ],
+      "physical process",
+      [
+        "smile (emotional/social)",
+        "laugh (sound)",
+        "light up (emotional/social)"
+      ]
+    ],
+    [
+      "frown",
+      "whine",
+      "look dejected"
+    ],
+    "physical",
+    [
+      "frown (emotional/social)",
+      "whine (sound)",
+      "look dejected (emotional/social)"
+    ]
+  ],
+  "zgr": [
+    "@sk",
+    "donkey"
+  ],
+  "zgř": [
+    "@xl",
+    "radioactive heavy element"
+  ],
+  "zgw": [
+    "@sk",
+    "sheep"
+  ],
+  "zj": [
+    [
+      [
+        "nervous/apprehensive",
+        "timid/shy/bashful",
+        "anxiety-ridden"
+      ],
+      "state focus",
+      "consequence focus"
+    ],
+    "self-aware"
+  ],
+  "zk": [
+    [
+      [
+        "guess",
+        "supposition",
+        "assumption"
+      ],
+      "process focus",
+      "conclusion focus"
+    ],
+    [
+      [
+        "conjecture",
+        "theorem",
+        "hypothesis"
+      ],
+      "process focus",
+      "conclusion focus"
+    ]
+  ],
+  "zl": [
+    [
+      [
+        "turned",
+        "mirror-image",
+        "inside-out"
+      ],
+      [
+        "turned backwards",
+        "mirrored backwards",
+        "turned sideways"
+      ],
+      [
+        "mirrored sideways",
+        "turned upside-down",
+        "mirrored upside-down"
+      ]
+    ],
+    "formal"
+  ],
+  "zm": [
+    "@num",
+    "10,000"
+  ],
+  "zmy": [
+    "@xl",
+    "isopropanol"
+  ],
+  "zn": [
+    "@š",
+    "heat conductive texture"
+  ],
+  "zň": [
+    "@š",
+    "slimy texture"
+  ],
+  "zp": [
+    "@š",
+    "rubbery texture"
+  ],
+  "zp'": [
+    "+qw",
+    "carrot"
+  ],
+  "zph": [
+    "@xl",
+    "asbestos"
+  ],
+  "zq": [
+    "@š",
+    "slippery texture"
+  ],
+  "zq'": [
+    "@xl",
+    "brass"
+  ],
+  "zqh": [
+    "@xl",
+    "vinegar"
+  ],
+  "zr": [
+    [
+      [
+        "throat",
+        "gullet",
+        "interior of throat"
+      ],
+      "physical",
+      "function"
+    ],
+    "non-animal"
+  ],
+  "zt": [
+    "@xl",
+    "coal"
+  ],
+  "zv": [
+    [
+      [
+        "state of sexual/romantic relationship",
+        "perform sexual activity",
+        "to date/court"
+      ],
+      [
+        "sexual/romantic relationship itself",
+        "sexual activity itself",
+        "act involved in dating/courtship"
+      ],
+      [
+        "emotional basis of sexual relationship",
+        "lust/motive of sexual act",
+        "motive underlying courtship"
+      ]
+    ],
+    [
+      [
+        "significant other",
+        "partner in sex",
+        "partner in dating"
+      ],
+      [
+        "boyfriend",
+        "male lover",
+        "male date"
+      ],
+      [
+        "girlfriend",
+        "female lover",
+        "female date"
+      ]
+    ]
+  ],
+  "zvw": [
+    "@xl",
+    "barium/caesium/hafnium/…"
+  ],
+  "zvy": [
+    "@xl",
+    "actinide"
+  ],
+  "zw": [
+    "@g",
+    "top"
+  ],
+  "zy": [
+    "@š",
+    "wispy texture"
+  ],
+  "zz": [
+    "@š",
+    "soft like a cushion texture"
+  ],
+  "ż": [
+    [
+      [
+        "24-hour day",
+        "sky",
+        "degree of sunlight"
+      ],
+      [
+        "daytime",
+        "daytime sky",
+        "daylight"
+      ],
+      [
+        "nighttime",
+        "night sky",
+        "natural darkness"
+      ]
+    ],
+    "calendrical"
+  ],
+  "żb": [
+    "@xl",
+    "tar"
+  ],
+  "żg": [
+    "@xl",
+    "steel"
+  ],
+  "żk": [
+    "@š",
+    "honeycombed texture"
+  ],
+  "żk'": [
+    "@š",
+    "prickly texture"
+  ],
+  "żn": [
+    [
+      [
+        "grow",
+        "raise/foster",
+        "nurture"
+      ],
+      "act focus",
+      "effect focus"
+    ],
+    "plant"
+  ],
+  "żp'": [
+    "@xl",
+    "jade"
+  ],
+  "żph": [
+    "@š",
+    "cartilaginous texture"
+  ],
+  "żq": [
+    "@š",
+    "cactus texture"
+  ],
+  "żq'": [
+    "@xl",
+    "plutonium"
+  ],
+  "żqh": [
+    "@š",
+    "granular texture"
+  ],
+  "żr": [
+    "@š",
+    "bristly texture"
+  ],
+  "żř": [
+    "@xl",
+    "quartz"
+  ],
+  "żt": [
+    "@š",
+    "pins and needle texture"
+  ],
+  "żv": [
+    "+qw",
+    "potato"
+  ],
+  "ž": [
+    [
+      [
+        "act of affection",
+        "familial love",
+        "romantic love"
+      ],
+      "act focus",
+      "feeling focus"
+    ],
+    [
+      [
+        "like emotionally",
+        "love of country/heritage",
+        "love of idea"
+      ],
+      "act focus",
+      "feeling focus"
+    ]
+  ],
+  "žb": [
+    "@š",
+    "feathery texture"
+  ],
+  "žbř": [
+    "@š",
+    "sponge-like texture"
+  ],
+  "žd": [
+    "@š",
+    "slushy texture"
+  ],
+  "ždr": [
+    "@š",
+    "papery texture"
+  ],
+  "ždw": [
+    "@š",
+    "fluffy texture"
+  ],
+  "žg": [
+    "@š",
+    "mushy texture"
+  ],
+  "žgl": [
+    "@š",
+    "woolly texture"
+  ],
+  "žgr": [
+    "@š",
+    "dusty texture"
+  ],
+  "žgy": [
+    "@xl",
+    "ammonia"
+  ],
+  "žk'": [
+    "@š",
+    "viscous texture"
+  ],
+  "žl": [
+    "@pk",
+    "surprise"
+  ],
+  "žlw": [
+    "@xl",
+    "plaster"
+  ],
+  "žm": [
+    [
+      [
+        "self-pride",
+        "pride in other",
+        "one's sensibilities"
+      ],
+      "cause focus",
+      "feeling focus"
+    ],
+    [
+      [
+        "self-esteem",
+        "respect",
+        "sense of ego"
+      ],
+      "cause focus",
+      "feeling focus"
+    ]
+  ],
+  "žmy": [
+    "@xl",
+    "rutherfordium/dubnium/seaborgium/…"
+  ],
+  "žny": [
+    "@xl",
+    "heavy lanthanide"
+  ],
+  "žph": [
+    "@š",
+    "powdery texture"
+  ],
+  "žq": [
+    "@š",
+    "tingly texture"
+  ],
+  "žq'": [
+    "@xl",
+    "uranium"
+  ],
+  "žqh": [
+    "@š",
+    "sticky texture"
+  ],
+  "žr": [
+    [
+      [
+        "intelligent",
+        "quick-witted",
+        "have foresight"
+      ],
+      "state focus",
+      "consequence focus"
+    ],
+    "self-aware"
+  ],
+  "žv": [
+    [
+      [
+        "state of balance",
+        "state of equilibrium",
+        "state of homeostasis"
+      ],
+      "state focus",
+      "consequence focus"
+    ],
+    [
+      [
+        "state of symmetry",
+        "state of parity",
+        "state of being numerically even"
+      ],
+      "state focus",
+      "consequence focus"
+    ]
+  ],
+  "žvw": [
+    "@xl",
+    "lanthanide"
+  ],
+  "žw": [
+    "@š",
+    "fur texture"
+  ],
+  "žy": [
+    "@š",
+    "curvaceous/sensual texture"
+  ]
+}
