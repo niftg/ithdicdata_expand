@@ -2129,7 +2129,10 @@
     "@kh",
     "sage/disciples"
   ],
-  "fsqw": "pheasant",
+  "fsqw": [
+    "@sk",
+    "pheasant"
+  ],
   "fst": [
     "@fţ",
     "moth"
@@ -2450,7 +2453,6 @@
     "@gm",
     "oval"
   ],
-  "jm": "in-law-foster relations",
   "jph": [
     "@gm",
     "egg shape"
@@ -2692,7 +2694,7 @@
     "business partnership"
   ],
   "kkr": [
-    "+j",
+    "+k",
     "oblique"
   ],
   "kl": [
@@ -2742,15 +2744,6 @@
   "kn": [
     "@sk",
     "snake"
-  ],
-  "kp": [
-    "@kp",
-    "length"
-  ],
-  "kpl": [
-    [
-      []
-    ]
   ],
   "kr": [
     [
@@ -3128,7 +3121,6 @@
     "@lb",
     "depth"
   ],
-  "lfq": "self-concern/selfishness",
   "lfw": [
     "@sk",
     "frog"
@@ -4821,7 +4813,10 @@
     "@pk",
     "disappointment in another"
   ],
-  "pk": "experience/undergo a state or feeling",
+  "pk": [
+    "@pk",
+    "experience/undergo a state or feeling"
+  ],
   "pkl": [
     [
       [
@@ -4994,7 +4989,10 @@
     "@f",
     "right-ahead-below"
   ],
-  "pstw": "100 million",
+  "pstw": [
+    "@num",
+    "100 million"
+  ],
   "psw": [
     "@f",
     "ahead-above"
@@ -5003,7 +5001,6 @@
     "@xt'",
     "magenta"
   ],
-  "pš": "happen/occur(ence)/manifest/event",
   "pšk": [
     "@f",
     "left-behind-below"
@@ -5445,7 +5442,6 @@
     ]
   ],
   "ř": [
-    "possession/ownership",
     [
       [
         "have (physical)",
@@ -8766,15 +8762,17 @@
       ]
     ],
     [
-      "frown",
-      "whine",
-      "look dejected"
-    ],
-    "physical",
-    [
-      "frown (emotional/social)",
-      "whine (sound)",
-      "look dejected (emotional/social)"
+      [
+        "frown",
+        "whine",
+        "look dejected"
+      ],
+      "physical",
+      [
+        "frown (emotional/social)",
+        "whine (sound)",
+        "look dejected (emotional/social)"
+      ]
     ]
   ],
   "zgr": [
