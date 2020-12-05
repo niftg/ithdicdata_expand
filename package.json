@@ -1,5 +1,5 @@
 {
-  "name": "scraped_ithdic_expand",
+  "name": "ithdicdata_expand",
   "version": "0.0.0",
   "main": "run.sh",
   "author": "niftg <niftg@users.noreply.github.com>",
