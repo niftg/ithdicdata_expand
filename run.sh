@@ -3,7 +3,7 @@ curl https://raw.githubusercontent.com/porpoiseless/ithkuil/master/data/dictiona
 > mod_dic.js
 node expand.js > dic_expand.json
 
-curl https://raw.githubusercontent.com/lynn/ithkuil/master/lexicon.hjson \
+curl https://raw.githubusercontent.com/lynn/ithkuil/b3a68db31f75006b86524ca1c87f178808c8fdb2/lexicon.hjson \
 | node hj2j.js \
 | jq '.kkr[0] |= "+k"' \
 | jq '.["ř"] |= .[1:]' \
